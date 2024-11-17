@@ -1,8 +1,8 @@
-<img src="djangocon_2025/static/images/logo/logo_coloured.png" height=100 />
+<img src="djangocon_2025/static/images/logo/2025_logo.png" height=100 />
 
-🌍 [2024.djangocon.eu](https://2024.djangocon.eu/) \
-📍 Vigo, Spain 🇪🇸 \
-📅 June 5-9
+🌍 [2025.djangocon.eu](https://2025.djangocon.eu/) \
+📍 Dublin, Ireland \
+📅 April 23-27
 
 [![built-with](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-blue.svg)](https://github.com/pydanny/cookiecutter-django/)
 [![code-style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
