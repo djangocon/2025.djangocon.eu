@@ -28,6 +28,7 @@ install requirements:
 ### Using Docker
 
 ```bash
+python setup_env.py
 docker compose build
 docker compose up
 ```
