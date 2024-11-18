@@ -1,4 +1,4 @@
 title:
-layout: slide_info
+layout: past_edition
 
 JOIN US FOR FIVE DAYS OF TALKS, SPRINTS AND TUTORIALS.

@@ -3841,3 +3841,103 @@ object[type="application/pdf"] {
 }
 
 /* end of past evnet */
+
+/* home sponsros new css */
+.sponsors-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background-color: #001B00;
+    padding: 40px 0;
+}
+
+.sponsors-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid rgba(0, 255, 0, 0.3);
+    border-radius: 16px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.1);
+}
+
+.sponsors-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.sponsors-title {
+    font-family: "Lato";
+    color: #97EB61;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.view-all-btn {
+    background: transparent;
+    border: 1px solid #97EB61;
+    color: #97EB61;
+    padding: 8px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.view-all-btn:hover {
+    background: rgba(151, 235, 97, 0.1);
+}
+
+.sponsors-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.sponsor-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.sponsor-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sponsor-logo img {
+    max-height: 40px;
+    object-fit: contain;
+    filter: brightness(0) invert(1);
+    /* Makes logos white */
+}
+
+@media (max-width: 768px) {
+    .sponsors-container {
+        padding: 20px;
+        margin: 0 20px;
+    }
+
+    .sponsors-header {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+
+    .sponsor-row {
+        gap: 30px;
+    }
+
+    .sponsor-logo img {
+        max-height: 30px;
+    }
+}
+
+/* end home sponsors new css */
