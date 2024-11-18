@@ -1,5 +1,5 @@
-title: Call for Proposals - Opened
 layout: simple
+<h1 style="padding-top:6rem;" class="cfp-title">Call for Proposals - Opened</h1>
 
 This page contains all information regarding the proposal process for DjangoCon Europe – we will update it regularly as new information becomes available.
 

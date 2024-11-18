@@ -774,8 +774,22 @@ footer {
     padding-top: 1.5rem
 }
 
+
+/* testing content container padd */
+
+.cfp-title {
+    font-size: 2.5rem;
+    font-family: "Lato", sans-serif;
+    color: #97EB61;
+    text-transform: uppercase !important;
+    font-weight: 700;
+
+}
+
+/* end of testing */
 .content-container .content-title h1 {
-    color: var(--dark-brown);
+    color: #97EB61;
+    font-family: "Lato", sans-serif;
     font-size: 2.5rem;
     text-transform: uppercase !important;
 }
@@ -787,7 +801,7 @@ footer {
 }
 
 .content-container .simple-content {
-    color: #030507;
+    color: var(--light-cream);
     font: 1.125rem/1.5rem var(--main-font);
     overflow-x: auto !important;
     text-decoration: none
@@ -3306,10 +3320,9 @@ object[type="application/pdf"] {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* end of header design */
 
-/* home speakers design  */
-/* Main Container with Green Border */
-/* Main Container with Green Border */
+/* home speakers /* Main Container with Green Border */
 .main-container {
     padding: 40px;
     border: 1px solid rgba(11, 224, 68, 0.3);
@@ -3334,6 +3347,96 @@ object[type="application/pdf"] {
     font-weight: 600;
     color: #97EB61;
     margin: 0;
+}
+
+/* Dropdown styling */
+.dropdown-menu {
+    background-color: #002800;
+    border: 1px solid rgba(151, 235, 97, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    padding: 8px 0;
+    margin-top: 8px;
+    min-width: 200px;
+}
+
+/* Dropdown items styling */
+.dropdown-item {
+    color: #EFEDD0 !important;
+    padding: 10px 20px;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.dropdown-item:hover {
+    background-color: rgba(151, 235, 97, 0.1);
+    color: #97EB61 !important;
+    transform: translateX(5px);
+}
+
+/* Dropdown toggle arrow styling */
+.dropdown-toggle::after {
+    transition: transform 0.3s ease;
+}
+
+.dropdown-toggle[aria-expanded="true"]::after {
+    transform: rotate(180deg);
+}
+
+/* Smooth dropdown animation */
+.dropdown-menu.show {
+    animation: dropdownFade 0.3s ease-in-out;
+}
+
+@keyframes dropdownFade {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Mobile dropdown adjustments */
+@media (max-width: 991px) {
+    .dropdown-menu {
+        background-color: transparent;
+        border: none;
+        box-shadow: none;
+        padding-left: 20px;
+    }
+
+    .dropdown-item {
+        padding: 8px 16px;
+    }
+
+    .dropdown-item:hover {
+        transform: translateX(8px);
+    }
+}
+
+/* Active dropdown item state */
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: rgba(151, 235, 97, 0.2);
+    color: #97EB61 !important;
+}
+
+/* Dropdown menu positioning */
+.nav-item.dropdown {
+    position: relative;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+/* Ensure dropdown is above other elements */
+.dropdown-menu {
+    z-index: 1000;
 }
 
 .view-all-btn {
