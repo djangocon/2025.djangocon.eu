@@ -1,109 +1,60 @@
-{% load static %}
+<!-- HTML -->
+<div class="dates-section">
+  <div class="dates-container">
+      <h2 class="dates-title">IMPORTANT DATES</h2>
+      
+      <div class="dates-grid">
+          <div class="month">
+              <h3>November</h3>
+              <div class="date-items">
+                  <div class="date-item">
+                      <span class="date">15th</span> - Call for Participation Deadline
+                  </div>
+                  <div class="date-item">
+                      <span class="date">30th</span> - Grants Applications Opening
+                  </div>
+                  <div class="date-item">
+                      <span class="date">30th</span> - Early Bird Ticket Sales Closes
+                  </div>
+              </div>
+          </div>
 
+          <div class="month">
+              <h3>December</h3>
+              <div class="date-items">
+                  <div class="date-item">
+                      <span class="date">01st</span> - Talks Publication
+                  </div>
+                  <div class="date-item">
+                      <span class="date">30th</span> - Schedule Publication
+                  </div>
+              </div>
+          </div>
 
-<div class="container">
-  <div class="title-container">
-    <img src="{% static 'images/other/important_dates.svg' %}" class="dates_logo img-fluid" alt="tickets">
+          <div class="month">
+              <h3>January</h3>
+              <div class="date-items">
+                  <div class="date-item">
+                      <span class="date">07th</span> - Childcare Applications Opening
+                  </div>
+                  <div class="date-item">
+                      <span class="date">15st</span> - T-shirt Sales Deadline (for deliveries at the conference)
+                  </div>
+              </div>
+          </div>
+
+          <div class="month">
+              <h3>February</h3>
+              <div class="date-items">
+                  <div class="date-item">
+                      <span class="date">17,18th</span> - Main Conference
+                  </div>
+                  <div class="date-item">
+                      <span class="date">19th</span> - Workshops
+                  </div>
+              </div>
+          </div>
+      </div>
   </div>
-
-
-  {% comment %} <div class="d-flex flex-column align-items-start important-dates-container w-100">
-    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
-      <span class="align-self-center align-self-lg-start text-uppercase w-25">
-        December
-      </span>
-      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
-        <li class="text-decoration-line-through">
-          🎫 31st - Holidays Special Super Early Bird Deadline ✅
-        </li>
-      </ul>
-    </div>
-    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
-      <span class="align-self-center align-self-lg-start text-uppercase w-25">
-        January
-      </span>
-      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
-        <li class="text-decoration-line-through">
-          🎤 1st - Call For Participation Opening ✅
-        </li>
-        <li class="text-decoration-line-through">
-          🎫 1st - Early Bird Ticket Sales Opening ✅
-        </li>
-      </ul>
-    </div>
-    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
-      <span class="align-self-center align-self-lg-start text-uppercase w-25">
-        February
-      </span>
-      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
-        <li class="text-decoration-line-through">
-          🎤 29th - Call For Participation Deadline ✅
-        </li>
-      </ul>
-    </div>
-    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
-      <span class="align-self-center align-self-lg-start text-uppercase w-25">
-        March
-      </span>
-      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
-        <li class="text-decoration-line-through">
-          📝 1st - Content Review & Selection Kickoff ✅
-        </li>
-        <li class="text-decoration-line-through">
-          ✈️ 15th - Grants Applications Opening ✅
-        </li>
-      </ul>
-    </div>
-    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
-      <span class="align-self-center align-self-lg-start text-uppercase w-25">
-        April
-      </span>
-      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
-        <li class="text-decoration-line-through">
-          🎙 1st - Talks Publication ✅
-        </li>
-        <li class="text-decoration-line-through">
-          👶 1st - Childcare Applications Opening ✅
-        </li>
-        <li class="text-decoration-line-through">
-          🗓 15th - Schedule Publication ✅
-        </li>
-        <li class="text-decoration-line-through">
-          ✈️ 15th - Grants Applications Deadline ✅
-        </li>
-        <li class="text-decoration-line-through">
-          🎫 30th - Early Bird Ticket Sales Closes✅
-        </li>
-      </ul>
-    </div>
-    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
-      <span class="align-self-center align-self-lg-start text-uppercase w-25">
-        May
-      </span>
-      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
-        <li class="text-decoration-line-through">
-          👶 5th - Childcare Applications Deadline✅
-        </li>
-        <li class="text-decoration-line-through">
-          👕 10th - T-shirt Sales Deadline (for deliveries at the conference)✅
-        </li>
-      </ul>
-    </div>
-    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
-      <span class="align-self-center align-self-lg-start text-uppercase w-25">
-        June
-      </span>
-      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
-        <li>
-          🎪 5-7th - Main Conference, Workshops & Lightning Talks
-        </li>
-        <li>
-          💻 8-9th - Sprints
-        </li>
-        <li>
-          💻 8th - Django Girls
-        </li>
-      </ul>
-    </div>
-  </div> {% endcomment %}
 </div>
+
