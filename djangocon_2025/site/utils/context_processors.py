@@ -24,7 +24,7 @@ def links(request):
                     "Announcements": "/information/announcements/",
                 },
             },
-            "Sponsors & Jobs": {
+            "Sponsors/Jobs": {
                 "dropdown": "true",
                 "submenu": {
                     "Sponsors": "/sponsors/sponsors",
@@ -40,10 +40,10 @@ def links(request):
                     "Privacy Guide": "/conduct/privacy_guide/",
                 },
             },
-            "Tickets": {
-                "dropdown": "false",
-                "href": "https://pretix.evolutio.pt/evolutio/djceu2025/",
-            },
+            # "Tickets": {
+            #     "dropdown": "false",
+            #     "href": "https://pretix.evolutio.pt/evolutio/djceu2025/",
+            # },
             "About": {
                 "dropdown": "true",
                 "submenu": {
