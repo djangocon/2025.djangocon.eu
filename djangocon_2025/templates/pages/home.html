@@ -3,105 +3,62 @@
 {% load static %}
 {% block content %}
 
-<!-- Pop-up script -->
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-8f8c9b45-32fa-42fd-86de-57dac5995e26" data-elfsight-app-lazy></div>
+<!-- Main Section -->
 
-<!-- Animated Title -->
-<div class="countdown-container">
-  <div id="dates_title"></div>
-  <div id="countdown"></div>
+<div class="hero-section">
+  <div class="hero-container">
+      <div class="hero-content">
+          <h1>Five days of talks,<br>sprints, and tutorials<br>in Dublin</h1>
+          <span class="hero-date">23rd-27th April 2025</span>
+          <a href="#" class="hero-btn">Grab your ticket now</a>
+      </div>
+  </div>
+  <div class="hero-image">
+      <img src="{% static 'images/other/building_dublin.png' %}" alt="Dublin city skyline">
+  </div>
 </div>
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+{% comment %} <div class="homepage-container">
+  <!-- Animated Title -->
+  <div class="countdown-container text-center">
+    <h1 id="dates_title" class="animated-title"></h1>
+  </div>
 
-<script>
-  // Update typed.js content
-  var typed = new Typed('#dates_title', {
-    strings: [
-      "Welcome to DjangoCon Europe 2025",
-      "Join us in Dublin Ireland 🇮🇪",  // Fixed flag emoji
-      "23-27 April 2025", // Added exact dates
-      "17th Edition of DjangoCon Europe" // Fixed typo
-    ],
-    typeSpeed: 50,
-    backSpeed: 30,
-    backDelay: 1500,
-    loop: true,
-    showCursor: false
-  });
 
-  // Enhanced countdown timer
-  const confStartDate = new Date("2025-04-23").getTime();
   
-  const countdown = setInterval(function() {
-    const now = new Date().getTime();
-    const distance = confStartDate - now;
-    
-    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    
-    document.getElementById("countdown").innerHTML = 
-      `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds until DjangoCon EU 2025`;
-    
-    if (distance < 0) {
-      clearInterval(countdown);
-      document.getElementById("countdown").innerHTML = "DjangoCon EU 2025 is happening now!";
-    }
-  }, 1000);
-</script>
 
-<!-- Main Logo -->
-<div class="logo-container">
-  <div id="main_logo" class="main-logo-animation logo-glow">
-      <img src="{% static 'images/logo/main_logo.png' %}" alt="Djangocon 2025 logo" class="img-fluid px-4 px-lg-0">
-  </div>
-</div>
+ 
+</div> {% endcomment %}
 
-<!-- Action Buttons -->
-<div class="row px-5 mainbutton">
-  <div class="container-button pt-4 px-3 d-flex justify-content-center gap-4">
-      <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/cfp" class="btn-link">
-          <button class="btn btn-primary btn-lg home-btn">
-              Submit a Talk <span class="ms-2">🔊</span>
-          </button>
-      </a>
 
-      <a href="https://pretix.evolutio.pt/evolutio/djceu2025/" class="btn-link">
-          <button class="btn btn-primary btn-lg home-btn">
-              Buy your Tickets <span class="ms-2">🎫</span>
-          </button>
-      </a>
-  </div>
-</div>
 
 {# SLIDE TEXT #}
-{% include 'modules/default.html' with content=files.0|markdown %}
+{% comment %} {% include 'modules/default.html' with content=files.0|markdown %} {% endcomment %}
 
 
 {# HOME-ABOUT #}
 {% include 'modules/default.html' with content=files.1|markdown %}
 
 
-{# TICKETS #}
-{% include 'modules/default.html' with content=files.2|markdown %}
-
 {# IMPORTANT DATES #}
-{% include 'modules/default.html' with content=files.3|markdown %}
+{% comment %} {% include 'modules/default.html' with content=files.3|markdown %} {% endcomment %}
 
 
 
 {# HOME-SPEAKERS #}
-{% comment %} {% include 'modules/default.html' with content=files.4|markdown %} {% endcomment %}
+{% include 'modules/default.html' with content=files.4|markdown %}
+
+
+
+{# TICKETS #}
+{% comment %} {% include 'modules/default.html' with content=files.2|markdown %} {% endcomment %}
+
 
 {# HOME-SPONSORS #}
-{% include 'modules/default.html' with content=files.5|markdown %}
+{% comment %} {% include 'modules/default.html' with content=files.5|markdown %} {% endcomment %}
 
 
 {# LATEST NEWS #}
-{% include 'modules/default.html' with content=files.6|markdown %}
-<br class="my-4">
+{% comment %} {% include 'modules/default.html' with
 {# ABOUT#}
 {# {% include 'templates/default.html' with content=files.0 %}#}
 
