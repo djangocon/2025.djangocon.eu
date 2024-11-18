@@ -329,7 +329,6 @@ djangocon_2025/media/
 
 .pytest_cache/
 .ipython/
-project.css
 project.min.css
 vendors.js
 *.min.js
