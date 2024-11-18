@@ -1,14 +1,13 @@
 {% load static %}
-
 <div class="container-fluid header sticky-top">
     <div class="header-container">
-        <!-- Logo (Always visible) -->
+        <!-- Logo -->
         <div class="logo-container">
             <a class="nav-link header-logo" href="{{ home }}">
-                <img src="{% static 'images/logo/2025_logo.png' %}" alt="Logo">
+                <img src="{% static 'images/logo/2025_logo.png' %}" alt="DjangoCon Logo">
             </a>
         </div>
-
+        
         <!-- Mobile Menu Button -->
         <div class="d-lg-none">
             <button class="btn navbar-light mobile-navbar-btn" type="button"
@@ -19,44 +18,44 @@
         </div>
 
         <!-- Navigation Menu -->
-        <div class="nav-menu-container">
+        <nav class="nav-menu-container">
             <!-- Mobile Menu -->
             <div class="collapse container-fluid d-lg-none" id="collapseNavigation">
                 <ul class="nav nav-sm">
                     {% for menu, menu_dict in site_menu.items %}
                         {% if menu_dict.dropdown == 'false' %}
-                            <li><a href="{{ menu_dict.href }}" class="nav-link btn btn-primary">{{ menu }}</a></li>
+                            <li><a href="{{ menu_dict.href }}" class="nav-link">{{ menu }}</a></li>
                         {% endif %}
                         {% if menu_dict.dropdown == 'true' %}
-                            <li>
-                                <a class="nav-link btn btn-primary" data-bs-toggle="collapse" role="button"
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="collapse" role="button"
                                    aria-expanded="false" aria-controls="collapseSubNav{{ menu|slugify }}"
                                    href="#collapseSubNav{{ menu|slugify }}">{{ menu }}</a>
-                                <div class="subnav collapse container-fluid text-center"
-                                     id="collapseSubNav{{ menu|slugify }}">
-                                    <ul class="nav nav-sm">
+                                <div class="collapse" id="collapseSubNav{{ menu|slugify }}">
+                                    <ul class="dropdown-menu show">
                                         {% for submenu, submenu_href in menu_dict.submenu.items %}
-                                            <li><a href="{{ submenu_href }}" class="nav-link text-white">{{ submenu }}</a></li>
+                                            <li><a href="{{ submenu_href }}" class="dropdown-item">{{ submenu }}</a></li>
                                         {% endfor %}
                                     </ul>
                                 </div>
                             </li>
                         {% endif %}
                     {% endfor %}
+                    <li><a href="#" class="nav-link tickets-btn">Tickets</a></li>
                 </ul>
             </div>
 
             <!-- Desktop Menu -->
-            <ul class="nav nav-pills d-none d-lg-flex align-items-center">
+            <ul class="nav main-nav d-none d-lg-flex">
                 {% for menu, menu_dict in site_menu.items %}
                     {% if menu_dict.dropdown == 'false' %}
                         <li class="nav-item">
-                            <a class="nav-link nav-link-lg" href="{{ menu_dict.href }}">{{ menu }}</a>
+                            <a class="nav-link" href="{{ menu_dict.href }}">{{ menu }}</a>
                         </li>
                     {% endif %}
                     {% if menu_dict.dropdown == 'true' %}
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle nav-link-lg" data-bs-toggle="dropdown" role="button"
+                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button"
                                aria-expanded="false">{{ menu }}</a>
                             <ul class="dropdown-menu">
                                 {% for submenu, submenu_href in menu_dict.submenu.items %}
@@ -67,17 +66,11 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        </div>
+            
+            <!-- Tickets Button -->
+            <div class="tickets-container d-none d-lg-block">
+                <a href="#" class="btn tickets-btn">Tickets</a>
+            </div>
+        </nav>
     </div>
 </div>
-
-<script>
-window.addEventListener('scroll', function() {
-    const header = document.querySelector('.header');
-    if (window.scrollY > 50) {
-        header.classList.add('scrolled');
-    } else {
-        header.classList.remove('scrolled');
-    }
-});
-</script>

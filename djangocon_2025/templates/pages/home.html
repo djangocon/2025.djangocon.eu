@@ -6,15 +6,17 @@
 <!-- Main Section -->
 
 <div class="hero-section">
-  <div class="hero-content">
-    <h1>Five Days of Talks, Sprints,<br> and Tutorials <br>in Dublin</h1>
-    <p class="hero-date" style="font-size:18px; text-decoration:none;">23rd-27th April 2025</p>
-    <a href="#" class="hero-btn text-decoration-none" style="color:#ffffff; font-weight:bold;">Grab your ticket now →</a>  </div>
+  <div class="hero-container">
+      <div class="hero-content">
+          <h1>Five days of talks,<br>sprints, and tutorials<br>in Dublin</h1>
+          <span class="hero-date">23rd-27th April 2025</span>
+          <a href="#" class="hero-btn">Grab your ticket now</a>
+      </div>
+  </div>
   <div class="hero-image">
-    <img src="{% static 'images/other/building_dublin.png' %}" alt="Dublin city skyline" >
+      <img src="{% static 'images/other/building_dublin.png' %}" alt="Dublin city skyline">
   </div>
 </div>
-
 {% comment %} <div class="homepage-container">
   <!-- Animated Title -->
   <div class="countdown-container text-center">
@@ -37,16 +39,19 @@
 {% include 'modules/default.html' with content=files.1|markdown %}
 
 
-{# TICKETS #}
-{% comment %} {% include 'modules/default.html' with content=files.2|markdown %} {% endcomment %}
-
 {# IMPORTANT DATES #}
 {% comment %} {% include 'modules/default.html' with content=files.3|markdown %} {% endcomment %}
 
 
 
 {# HOME-SPEAKERS #}
-{% comment %} {% include 'modules/default.html' with content=files.4|markdown %} {% endcomment %}
+{% include 'modules/default.html' with content=files.4|markdown %}
+
+
+
+{# TICKETS #}
+{% comment %} {% include 'modules/default.html' with content=files.2|markdown %} {% endcomment %}
+
 
 {# HOME-SPONSORS #}
 {% comment %} {% include 'modules/default.html' with content=files.5|markdown %} {% endcomment %}
