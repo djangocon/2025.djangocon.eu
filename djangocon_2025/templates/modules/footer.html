@@ -4,39 +4,41 @@
   <div class="container-footer">
     <div class="d-flex flex-column flex-lg-row gap-4 justify-content-evenly align-items-center py-5">
 
-      <div class="footer-links">
+      {% comment %} <div class="footer-links">
         <a class="nav-link" href="{{ home }}">
           <img src="{% static 'images/logo/logo_white.png' %}" alt="Logo">
         </a>
-      </div>
+      </div> {% endcomment %}
+      <h1>STAY IN THE LOOP</h1>
 
+      
       <div class="d-flex gap-5">
-        {% for smedia, smedia_href in social_media.items %}
-          {% with smedia_logo='images/external_logo/logo_'|add:smedia|add:'.svg' %}
-            <div class="col-2 text-center footer-social-media-link">
-              <a class="nav-link" href="{{ smedia_href }}" target="_blank" rel="me">
-                <img src="{% static smedia_logo %}" alt="{{ smedia }}" height="33rem;">
-              </a>
-            </div>
-          {% endwith %}
-        {% endfor %}
+          {% for smedia, smedia_href in social_media.items %}
+              {% with smedia_logo='images/external_logo/logo_'|add:smedia|add:'.svg' %}
+                  <div class="col-2 text-center footer-social-media-link">
+                      <a class="nav-link" href="{{ smedia_href }}" target="_blank" rel="me">
+                          <img src="{% static smedia_logo %}" alt="{{ smedia }}" height="33rem">
+                      </a>
+                  </div>
+              {% endwith %}
+          {% endfor %}
       </div>
 
-      <div class="d-flex flex-column align-items-center djangocon-list">
+      {% comment %} <div class="d-flex flex-column align-items-center djangocon-list">
         <h4 class="footer-title">Looking for another DjangoCon?</h4>
         <ul>
           <li><a href="https://2023.djangocon.africa">DjangoCon Africa</a></li>
           <li><a href="https://2023.djangocon.com.au">DjangoCon Australia</a></li>
           <li><a href="https://djangocon.us">DjangoCon US</a></li>
         </ul>
-      </div>
+      </div> {% endcomment %}
 
     </div>
 
   </div>
   <div class="row justify-content-center footer-end">
     <div class="col row text-center align-self-center justify-content-center ">
-      <p class="col-12">© 2024 DjangoCon Europe </p>
+      <p class="col-12">© 2025 DjangoCon Europe </p>
       <p class="col-12"><span class="d-none d-md-inline">·</span> developed in <a
               href="https://djangoproject.com">django</a> with ♥ by <a
               href="https://evolutio.pt/">evolutio</a> <span class="d-none d-md-inline">·</span>
