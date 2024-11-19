@@ -14,4 +14,5 @@ With our limited funds, we can't promise you will receive a grant, but if you're
 If you have questions, you can write to [2024@djangocon.eu](mailto:2024@djangocon.eu).
 
 **The Grant Application is now open! The application window closes on April 15 at 23:59 UTC.**
-<div markdown="1" style="text-align: center;">[<button class="btn">Apply for a Grant Here!</button>](https://forms.gle/ts1fdBZYoKTQHLSt7){:target="\_blank"}</div>
+<br>
+<a href="" class="hero-btn"style="text-decoration:none;color:white">Apply for Grant</a>

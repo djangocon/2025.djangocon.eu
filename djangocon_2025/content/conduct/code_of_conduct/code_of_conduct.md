@@ -1,5 +1,7 @@
-title: code of conduct
 layout: simple
+
+
+<h1 style="padding-top:6rem;" class="cfp-title">code of conduct</h1>
 
 Everybody who participates in DjangoCon Europe in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organizers, volunteers, and event staff.
 

@@ -1,8 +1,11 @@
-title: talks schedule
 layout: simple
 
-All sessions are in Central European Summer Time (GMT+2).
 
+<h1 style="padding-top:6rem;" class="cfp-title">Talk Schedule</h1>
+
+### Coming soon...
+<!-- All sessions are in Central European Summer Time (GMT+2). -->
+<!-- 
 - **Talks** - June 5th-7th
 - **Workshops** - June 5th-7th
 - **Lightning Talks** - June 5th-7th (at the end of each day)
@@ -29,4 +32,4 @@ The conference will take place from 9AM to 6PM.
       <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/" target="_blank">View the schedule on Pretalx</a>.
     </div>
   </div>
-</noscript>
+</noscript> -->
