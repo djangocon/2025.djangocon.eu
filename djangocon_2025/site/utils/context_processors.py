@@ -13,7 +13,7 @@ def links(request):
             "Information": {
                 "dropdown": "true",
                 "submenu": {
-                    "Dublin": "/information/vigo/",
+                    "Dublin": "/information/dublin/",
                     "Venue": "/information/venue/",
                     "Grants": "/information/grants/",
                     "Sprints": "/information/sprints/",

@@ -1,8 +1,8 @@
 title: Venue
 layout: simple
 
-<!-- The venue is located at the very heart of Vigo, on the seafront, facing the Cíes Islands and Mar de Vigo. -->
-
+<!-- The venue is located at the very heart of Vigo, on the seafront, facing the Cíes Islands and Mar de Vigo. 
+<!-- 
 **DjangoCon Europe** is thrilled to announce its latest edition will be held in the vibrant city of Vigo, Spain, at the prestigious **Auditorium Mar de Vigo**.
 
 Nestled at the heart of **Vigo**, this exquisite venue boasts a prime seafront location, offering breathtaking views of the Cíes Islands and the expansive Mar de Vigo.
@@ -85,7 +85,7 @@ The Vigo Conference Center Auditorium has its own catering service characterized
   Enjoy impeccable, professional, top quality service in a unique environment.
 
 <!-- place for cood -->
-
+<!-- 
 <img src="/static/images/venue/coffee.jpg" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
 
@@ -109,7 +109,7 @@ This room is intended to be a calm and quiet place for anyone who needs to have 
 
 ###### Location: Floor 2
 
-Workshop sessions will be hosted in the spacious 100m² rooms, located on the 2nd floor, access by elevator or stairs - a perfect setting for innovation and learning. The room numbers are displayed on every door and directions will be provided as well.
+Workshop sessions will be hosted in the spacious 100m² rooms, located on the 2nd floor, access by elevator or stairs - a perfect setting for innovation and learning. The room numbers are displayed on every door and directions will be provided as well. -->
 
 <!--
 ##### Audio and Translation
@@ -119,7 +119,7 @@ Workshop sessions will be hosted in the spacious 100m² rooms, located on the 2n
 
 <!-- check around -->
 
-<div class="image-row">
+<!-- <div class="image-row">
     <div>
         <img src="/static/images/venue/100m2.png" alt="100m2 ">
         <p style="font-family: Roboto; padding-top:10px"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
@@ -141,10 +141,10 @@ From jeans to suits, all are welcome! DjangoCon Europe is an inclusive space whe
 
 #### Did we miss something?
 
-We want your experience to be the best it can be! If there's anything we haven't thought of that would help you attend our event or make it more enjoyable, please let us know! We're happy to work with you to find a solution.
+We want your experience to be the best it can be! If there's anything we haven't thought of that would help you attend our event or make it more enjoyable, please let us know! We're happy to work with you to find a solution. -->
 
 <!-- ### Venue Images( Outside) -->
-
+<!-- 
 <div class="image-row">
     <div>
         <img src="/static/images/venue/terrace.png" alt="Third Planta ">
@@ -154,11 +154,11 @@ We want your experience to be the best it can be! If there's anything we haven't
         <img src="/static/images/venue/venue-7.jpg" alt="Venue 7">
         <p style="font-family: Roboto; padding-top:10px"><em>Photo credit: <a href="https://www.vigoenfotos.com/">Vigo en fotos</a></em></p>
     </div>
-</div>
+</div> -->
 
-#### Thank you
+<!-- #### Thank you -->
 
-Thank you to [DjangoconUS](https://2015.djangocon.us/) and [writethedocs](https://www.writethedocs.org/conf/portland/2024/venue/#accessibility) for inspiration on this page.
+<!-- Thank you to [DjangoconUS](https://2025.djangocon.us/) and [writethedocs](https://www.writethedocs.org/conf/portland/2024/venue/#accessibility) for inspiration on this page. --> -->
 
 <!-- ### Multipurpose hall Images( Outside)
 
