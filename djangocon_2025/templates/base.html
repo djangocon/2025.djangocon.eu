@@ -20,7 +20,11 @@
         href="{% static 'images/favicons/fav_2025.png' %}">
   <link rel="icon" type="image/png" sizes="16x16"
         href="{% static 'images/favicons/fav_2025.png' %}">
-  <link rel="manifest" href="{% static 'images/favicons//site.webmanifest' %}">
+  <link rel="manifest" href="{% static 'images/favicons//site.webmanifest' %}">\
+
+  {% comment %} pop up ticket {% endcomment %}
+  <script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-8f8c9b45-32fa-42fd-86de-57dac5995e26" data-elfsight-app-lazy></div>
 
   <script>if (!sessionStorage.getItem("_swa") && document.referrer.indexOf(location.protocol + "//" + location.host) !== 0) {
       fetch("https://counter.dev/track?" + new URLSearchParams({

@@ -376,6 +376,7 @@ footer {
     font: normal normal normal 1.5rem/1.75rem var(--main-font)
 }
 
+/* 
 @media (max-width: 992px) {
     .home-header {
         background-position: 0 !important
@@ -418,7 +419,7 @@ footer {
     background-color: var(--bg-color);
     border: none;
     color: black;
-}
+} */
 
 .centered-content-tickets {
     display: flex;
@@ -894,7 +895,7 @@ body {
     /*max-width: 71.5rem;*/
 }
 
-.header-margin {
+/* .header-margin {
     padding-left: 0;
     width: 0
 }
@@ -907,7 +908,7 @@ body {
 .header-logo-container {
     padding-left: 0;
     padding-right: 0
-}
+} */
 
 #tickets {
     margin-top: 0;
@@ -1007,7 +1008,7 @@ body {
 /* .speakers .swiper-wrapper {
     position: relative;
     width: 100vw;
-    display: flex;
+    display: flex;z
 }
 
 
@@ -1174,12 +1175,13 @@ body {
 
 }
 
+/* 
 .header {
     background: var(--bg-color);
     padding: 1rem 0
-}
+} */
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .header {
         padding: 1rem .5rem
     }
@@ -1191,13 +1193,13 @@ body {
 
 .header .dropdown-item:hover {
     background-color: var(--light-brown)
-}
+} */
 
-.header .nav-sm {
+/* .header .nav-sm {
     display: block;
     padding-left: 0;
     padding-right: 0
-}
+} */
 
 .header .nav-link {
     color: var(--dark-brown);
@@ -1227,13 +1229,14 @@ body {
     padding: 0
 }
 
+/* 
 .header .dropdown-menu {
     background: var(--dark-brown)
-}
+} */
 
-.header .dropdown-item {
+/* .header .dropdown-item {
     color: white
-}
+} */
 
 .top-banner {
     background-color: var(--golden)
@@ -3198,6 +3201,7 @@ object[type="application/pdf"] {
     padding: 0.5rem 0;
     position: fixed;
     width: 100%;
+    backdrop-filter: blur(10px);
     z-index: 1000;
 }
 
@@ -3209,6 +3213,8 @@ object[type="application/pdf"] {
     margin: 0 auto;
     padding: 0 2rem;
 }
+
+
 
 /* Logo Styles */
 .logo-container {
@@ -3243,11 +3249,13 @@ object[type="application/pdf"] {
     color: #EFEDD0 !important;
     font-size: 1rem;
     padding: 0.5rem 1rem !important;
+    text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .nav-link:hover {
-    color: rgba(255, 255, 255, 0.8) !important;
+    color: #EFEDD0 !important;
+    text-decoration: none;
 }
 
 /* Dropdown Styles */
@@ -3315,10 +3323,6 @@ object[type="application/pdf"] {
     }
 }
 
-/* Scrolled State */
-.header.scrolled {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
 
 /* end of header design */
 
@@ -4043,4 +4047,100 @@ object[type="application/pdf"] {
     }
 }
 
-/* end home sponsors new css */
+/* CFP Page Link Styling */
+.cfp-page a {
+    color: #97EB61;
+    /* Light green color */
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+.cfp-page a:hover {
+    color: #36BC5B;
+    /* Darker green on hover */
+    border-bottom: 2px solid #36BC5B;
+    background-color: rgba(54, 188, 91, 0.1);
+    /* Light green background on hover */
+    padding: 2px 4px;
+    /* Add padding for better readability */
+    border-radius: 4px;
+    /* Rounded corners */
+}
+
+/* Popup */
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    background-color: #003300;
+    color: #EFEDD0;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.popup button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #008000;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.popup h1 {
+    font-family: "Lato";
+    color: #EFEDD0;
+}
+
+.popup button:hover {
+    background-color: #004d00;
+}
+
+.popup .close-btn {
+    position: absolute;
+    top: 15px;
+    /* Adjusted to move away from the image */
+    right: 15px;
+    /* Adjusted to move away from the image */
+    background: #36BC5B;
+    /* Red background for visibility */
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 50%;
+    /* Rounded button */
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+}
+
+.popup .close-btn:hover {
+    background-color: #cc0000;
+}
+
+/* Overlay */
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
