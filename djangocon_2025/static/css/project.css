@@ -2973,7 +2973,7 @@ object[type="application/pdf"] {
     min-height: 85vh;
     /* background: linear-gradient(90deg, #004d25 0%, #003919 100%); */
     overflow: hidden;
-    margin-top: -80px;
+    margin-top: 70px;
     /* Adjust based on your header height to remove gap */
     padding-top: 80px;
     /* Add padding top to account for header */
@@ -3054,7 +3054,7 @@ object[type="application/pdf"] {
     bottom: 0;
     margin-top: 12rem;
 
-    width: 55%;
+    width: 50%;
 }
 
 .hero-image img {
