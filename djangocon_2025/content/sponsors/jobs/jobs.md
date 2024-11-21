@@ -1,7 +1,7 @@
 title: job offers
 layout: simple
 
-Looking for a job? Here we'll have an awesome list with companies who sponsored the conference. If you want to publish a job offer here, [click here](/sponsors/sponsorship/).
+<!-- Looking for a job? Here we'll have an awesome list with companies who sponsored the conference. If you want to publish a job offer here, [click here](/sponsors/sponsorship/).
 
 <hr/>
 
@@ -74,4 +74,4 @@ Advancement through barcamps, meet-ups, communities of practice, 1,000 euro conf
 Flexible working hours, avoidance of overtime or time off in lieu from the first minute
 Exclusively fixed employment contracts
 
-<hr/>
+<hr/> -->
