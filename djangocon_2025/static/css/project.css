@@ -3195,49 +3195,46 @@ object[type="application/pdf"] {
 /* end home about css */
 
 
-/* Header Styles */
 .header {
     background-color: #002400;
     padding: 0.5rem 0;
     position: fixed;
     width: 100%;
-    backdrop-filter: blur(10px);
     z-index: 1000;
 }
 
+
 .header-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     max-width: 1400px;
     margin: 0 auto;
     padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-
-
 
 /* Logo Styles */
 .logo-container {
     flex: 0 0 auto;
-    margin-left: -1rem;
-    /* Push logo more to the left */
 }
 
 .logo-container img {
     height: 66px;
-    /* Increased logo size */
     width: auto;
 }
 
-/* Navigation Styles */
+.container-fluid.header {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Navigation container */
 .nav-menu-container {
     flex: 1;
     display: flex;
     justify-content: flex-end;
-    /* Changed to flex-end to push nav to the right */
     align-items: center;
-    margin-right: -2rem;
-    /* Push nav items more to the right */
+    gap: 2rem;
 }
 
 .main-nav {
@@ -3258,17 +3255,27 @@ object[type="application/pdf"] {
     text-decoration: none;
 }
 
-/* Dropdown Styles */
+/* Dropdown menu base styles */
 .dropdown-menu {
-    background-color: #004d25;
-    border: none;
-    border-radius: 0;
+    background-color: #002800;
+    border: 1px solid rgba(151, 235, 97, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
     margin-top: 0.5rem;
+    min-width: 200px;
+    z-index: 1000;
+    position: absolute;
+    left: 0;
+    /* Align with parent */
+    transform: translateX(-20%);
+    /* Center align with parent */
 }
 
+/* Dropdown item styles */
 .dropdown-item {
-    color: white;
-    padding: 0.5rem 1.5rem;
+    color: #EFEDD0;
+    padding: 0.75rem 1.5rem;
+    white-space: nowrap;
 }
 
 .dropdown-item:hover {
@@ -3547,12 +3554,9 @@ object[type="application/pdf"] {
 }
 
 /* end of speaker design  */
-
-
 /* Main section styles */
 .pricing-section {
     width: 100vw;
-    /* Full viewport width */
     position: relative;
     left: 50%;
     right: 50%;
@@ -3560,17 +3564,15 @@ object[type="application/pdf"] {
     margin-right: -50vw;
     background-color: rgba(0, 26, 1, 255);
     padding: 40px 0;
-    /* Add vertical padding only */
+    text-align: center;
 }
 
 .pricing-title {
     font-family: "Lato";
     color: #97EB61;
     text-align: left;
-    /* Align to left */
-    font-size: 32px;
     font-weight: 700;
-    margin-bottom: 50px;
+    margin-bottom: 2rem;
     max-width: 1400px;
     margin-left: auto;
     margin-right: auto;
@@ -3587,28 +3589,13 @@ object[type="application/pdf"] {
     padding: 0 20px;
 }
 
-/* Button styles */
-.ticket-button {
-    background: #00FF00;
-    color: #001800;
-    border: none;
-    padding: 12px 24px;
-    border-radius: 25px;
-    font-weight: bold;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: calc(100% - 40px);
-    margin: 20px auto 0;
-    transition: all 0.3s ease;
-}
-
 /* Ticket card styles */
 .ticket-card {
     width: 300px;
-    position: relative;
-    height: 100%;
+    height: auto;
+    min-height: 420px;
+    display: flex;
+    flex-direction: column;
 }
 
 .ticket-header {
@@ -3629,11 +3616,12 @@ object[type="application/pdf"] {
     padding: 30px 20px;
     border: 1px solid rgba(0, 255, 0, 0.3);
     border-radius: 8px;
-    position: relative;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     gap: 20px;
-    height: 320px;
+    flex-grow: 1;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.1);
 }
 
 /* Notches on the sides */
@@ -3654,11 +3642,6 @@ object[type="application/pdf"] {
 
 .ticket-content::after {
     right: -10px;
-}
-
-/* Glowing effect */
-.ticket-content {
-    box-shadow: 0 0 10px rgba(0, 255, 0, 0.1);
 }
 
 /* Price section */
@@ -3700,7 +3683,7 @@ object[type="application/pdf"] {
     cursor: pointer;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     width: 100%;
     margin-top: auto;
     transition: all 0.3s ease;
@@ -3741,6 +3724,7 @@ object[type="application/pdf"] {
     }
 }
 
+/* end of ticket css */
 
 /* home important dates  */
 .dates-section {

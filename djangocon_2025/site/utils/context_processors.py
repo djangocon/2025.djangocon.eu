@@ -14,10 +14,10 @@ def links(request):
                 "dropdown": "true",
                 "submenu": {
                     "Dublin": "/information/dublin/",
-                    "Venue": "/information/venue/",
+                    # "Venue": "/information/venue/",
                     "Grants": "/information/grants/",
                     "Sprints": "/information/sprints/",
-                    "Django Girls": "/information/django_girls/",
+                    # "Django Girls": "/information/django_girls/",
                     "Hospitality": "/information/hospitality/",
                     "Social Events": "/information/social_events/",
                     "T-Shirts": "/information/tshirts/",
@@ -49,7 +49,7 @@ def links(request):
                 "submenu": {
                     "Contact": "/about/contact/",
                     "Credits": "/about/credits/",
-                    "Call for Proposals report": "/about/cfp_report/",
+                    # "Call for Proposals report": "/about/cfp_report/",
                 },
             },
         },

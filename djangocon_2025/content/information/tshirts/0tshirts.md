@@ -1,4 +1,3 @@
-title: T-Shirts
 layout: simple
 
 
