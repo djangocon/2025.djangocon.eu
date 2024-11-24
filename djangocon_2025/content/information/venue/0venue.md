@@ -82,13 +82,13 @@ There are National Train and Bus services running between various Irish cities a
 
 
 <!-- COVID INFO -->
-<h1 class="cfp-title" style="font-size:40px">COVID Info</h1>
+<h1 class="cfp-title" style="font-size:30px">COVID Info</h1>
 
 For any COVID related information in Dublin, please refer to our dedicate [COVID Info page](https://ep2022.europython.eu/covid-info){: style="color:#36BC5B; font-weight:bold"} and the Government [public health measures](https://www.gov.ie/en/campaigns/c36c85-covid-19-coronavirus/){: style="color:#36BC5B; font-weight:bold"}.
 
 
 <!-- TOURIST -->
-<h1 class="cfp-title" style="font-size:40px">Tourist Tips: Around Dublin</h1>
+<h1 class="cfp-title" style="font-size:30px">Tourist Tips: Around Dublin</h1>
 
 - You can buy the [Freedom Ticket card](https://dodublin.ie/dodublin-card){: style="color:#36BC5B; font-weight:bold"} for €45. You have 48 hours for the "Hop on/Hop off" tour and 72 Hours for using the Dublin Bus Network. This includes the 16, 41 routes from Dublin Airport to City centre, Go-Ahead Dublin public buses, [Luas](https://luas.ie/){: style="color:#36BC5B; font-weight:bold"}, [Dublin Area Rapid Transit](https://www.irishrail.ie/en-ie/about-us/iarnrod-eireann-services/dart-commuter){: style="color:#36BC5B; font-weight:bold"} (in Dublin area only).
 - Another option is to buy a [Leap Visitors Card](https://about.leapcard.ie/leap-visitor-card){: style="color:#36BC5B; font-weight:bold"}. It gives you unlimited travel over your selected time period on [Dublin Bus](http://www.dublinbus.ie/){: style="color:#36BC5B; font-weight:bold"}, Go-Ahead Ireland routes in Dublin, [Luas](https://luas.ie/){: style="color:#36BC5B; font-weight:bold"}., [Dublin Area Rapid Transit](https://www.irishrail.ie/en-ie/about-us/iarnrod-eireann-services/dart-commuter){: style="color:#36BC5B; font-weight:bold"} and Commuter Rail. You can travel to and from the Airport at the start and end of your trip without any additional charge. For 24 hours the price is €10, 3 days is €25 and 7 days is €40.
