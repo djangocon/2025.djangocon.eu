@@ -3,45 +3,62 @@
 {% load static %}
 {% block content %}
 
-<!-- Main Section -->
+  <!-- Main Section -->
 
-<div class="hero-section">
-  <div class="hero-container">
+  <div class="hero-section">
+    <div class="hero-container">
       <div class="hero-content">
-          <h1>Five days of talks,<br>sprints, and tutorials<br>in Dublin</h1>
-          <span class="hero-date">23rd-27th April 2025</span>
-          <a href="#" class="hero-btn" onclick="openPopup()" style="text-decoration:none;">Get a free Ticket</a>
-        </div>
+        <h1>Five days of talks,<br>sprints, and tutorials<br>in Dublin</h1>
+        <span class="hero-date">23rd-27th April 2025</span>
+        <a href="#" class="hero-btn" onclick="openPopup()"
+           style="text-decoration:none;">Get a free Ticket</a>
+      </div>
+    </div>
+    <div class="hero-image" style="margin-top: 20px;">
+      <img src="{% static 'images/other/building_dublin.png' %}"
+           alt="Dublin city skyline">
+    </div>
   </div>
-  <div class="hero-image" style="margin-top: 20px;">
-      <img src="{% static 'images/other/building_dublin.png' %}" alt="Dublin city skyline">
+  <div class="hero-image-mobile w-100" style="margin-top: 20px;">
+    <img src="{% static 'images/other/building_dublin.png' %}"
+         alt="Dublin city skyline">
   </div>
-</div>
 
 
+  <div class="overlay" id="overlay"></div>
 
-<div class="overlay" id="overlay"></div>
-
-<div class="popup" id="popup">
-  <button class="close-btn" onclick="closePopup()">&times;</button>
+  <div class="popup" id="popup">
+    <button class="close-btn" onclick="closePopup()">&times;</button>
     <h2 style="color:#EFEDD0; font-weight:bold">Want a free ticket?</h2>
 
     <p>Join as a Volunteer:</p>
-    <a href="https://forms.gle/xmwxssiheMa1oCvPA" class="apply-btn" style="text-decoration:none;"><button>Help Us</button></a>
+    <a href="https://forms.gle/xmwxssiheMa1oCvPA" class="apply-btn"
+       style="text-decoration:none;">
+      <button>Help Us</button>
+    </a>
 
     <p>Submit a talk or workshop:</p>
-    <a href="https://2025.djangocon.eu/talks/cfp/" class="apply-btn" style="text-decoration:none;"><button>Contribute</button></a>
+    <a href="https://2025.djangocon.eu/talks/cfp/" class="apply-btn"
+       style="text-decoration:none;">
+      <button>Contribute</button>
+    </a>
 
     <p>Apply for an Opportunity Grant:</p>
-    <a href="https://2025.djangocon.eu/information/grants/" class="apply-btn" style="text-decoration:none;"><button>Apply for Grant</button></a>
+    <a href="https://2025.djangocon.eu/information/grants/" class="apply-btn"
+       style="text-decoration:none;">
+      <button>Apply for Grant</button>
+    </a>
 
     <p>Or get discounted ticket:</p>
-    <a href="https://pretix.evolutio.pt/evolutio/djceu2025/" class="apply-btn" style="text-decoration:none;"><button>tickets</button></a>
-</div>
+    <a href="https://pretix.evolutio.pt/evolutio/djceu2025/" class="apply-btn"
+       style="text-decoration:none;">
+      <button>tickets</button>
+    </a>
+  </div>
 
 
 
-{% comment %} <div class="homepage-container">
+  {% comment %} <div class="homepage-container">
   <!-- Animated Title -->
   <div class="countdown-container text-center">
     <h1 id="dates_title" class="animated-title"></h1>
@@ -57,36 +74,36 @@
 
 
 
-{# HOME-ABOUT #}
-{% include 'modules/default.html' with content=files.1|markdown %}
+  {# HOME-ABOUT #}
+  {% include 'modules/default.html' with content=files.1|markdown %}
 
 
 
 
 
 
-{# HOME-SPEAKERS #}
-{% comment %} {% include 'modules/default.html' with content=files.4|markdown %} {% endcomment %}
+  {# HOME-SPEAKERS #}
+  {% comment %} {% include 'modules/default.html' with content=files.4|markdown %} {% endcomment %}
 
 
 
-{# TICKETS #}
-{% include 'modules/default.html' with content=files.2|markdown %}
+  {# TICKETS #}
+  {% include 'modules/default.html' with content=files.2|markdown %}
 
-{# IMPORTANT DATES #}
-{% include 'modules/default.html' with content=files.3|markdown %}
-
-
-{# Past Edition #}
-{% include 'modules/default.html' with content=files.0|markdown %}
+  {# IMPORTANT DATES #}
+  {% include 'modules/default.html' with content=files.3|markdown %}
 
 
-{# HOME-SPONSORS #}
-{% include 'modules/default.html' with content=files.5|markdown %}
+  {# Past Edition #}
+  {% include 'modules/default.html' with content=files.0|markdown %}
 
 
-{# LATEST NEWS #}
-{% comment %} {% include 'modules/default.html' with
+  {# HOME-SPONSORS #}
+  {% include 'modules/default.html' with content=files.5|markdown %}
+
+
+  {# LATEST NEWS #}
+  {% comment %} {% include 'modules/default.html' with
 {# ABOUT#}
 {# {% include 'templates/default.html' with content=files.0 %}#}
 
@@ -98,11 +115,11 @@
 {# PORTO-INFO#}
 {% comment %} {% include 'modules/default.html' with content=files.1 %} {% endcomment %}
 
-{# SPONSORS#}
-{# {% include 'modules/default.html' with content=files.2 %}#}
+  {# SPONSORS#}
+  {# {% include 'modules/default.html' with content=files.2 %}#}
 
-{# MAILING-LIST#}
-{# {% include 'modules/home/mailing.html' %}#}
+  {# MAILING-LIST#}
+  {# {% include 'modules/home/mailing.html' %}#}
 
 
 
