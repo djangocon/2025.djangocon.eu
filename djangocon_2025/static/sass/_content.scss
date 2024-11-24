@@ -1,6 +1,6 @@
 // content page
 
-@use "base";
+@use 'base';
 
 .content-container {
   flex: 1;
@@ -13,13 +13,15 @@
 
       &.parent-title {
         opacity: 30%;
-        color: #003C80;
+        color: #003c80;
         margin-bottom: 0;
       }
     }
   }
   .simple-content {
-    font: 1.125rem/1.5rem Ubuntu, sans-serif;
+    font:
+      1.125rem/1.5rem Ubuntu,
+      sans-serif;
     color: base.$BgBlue;
     text-decoration: none;
     overflow-x: auto !important;
@@ -35,7 +37,7 @@
     }
     .btn {
       color: base.$BgBlue;
-      border: .0625rem base.$BgBlue solid;
+      border: 0.0625rem base.$BgBlue solid;
       background-color: base.$BtnGolden;
     }
   }
@@ -45,6 +47,6 @@
   }
 
   h2 {
-    margin-bottom: 1rem;;
+    margin-bottom: 1rem;
   }
 }

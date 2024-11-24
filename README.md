@@ -54,7 +54,6 @@ DATABASES = {
 }
 ```
 
-
 ## Code of Conduct
 
 As a contributor, you can help us keep the Django community open and inclusive.

@@ -8,7 +8,7 @@ if not Path(env_file).is_file():
     os.makedirs(os.path.dirname(env_file), exist_ok=True)
     with open(env_file, "w") as file:
         file.write(
-"""USE_DOCKER=yes
+            """USE_DOCKER=yes
 IPYTHONDIR=/app/.ipython
 """
         )

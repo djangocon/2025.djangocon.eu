@@ -1,8 +1,8 @@
 title: Venue
 layout: simple
 
-<!-- The venue is located at the very heart of Vigo, on the seafront, facing the Cíes Islands and Mar de Vigo. 
-<!-- 
+<!-- The venue is located at the very heart of Vigo, on the seafront, facing the Cíes Islands and Mar de Vigo.
+<!--
 **DjangoCon Europe** is thrilled to announce its latest edition will be held in the vibrant city of Vigo, Spain, at the prestigious **Auditorium Mar de Vigo**.
 
 Nestled at the heart of **Vigo**, this exquisite venue boasts a prime seafront location, offering breathtaking views of the Cíes Islands and the expansive Mar de Vigo.
@@ -85,7 +85,7 @@ The Vigo Conference Center Auditorium has its own catering service characterized
   Enjoy impeccable, professional, top quality service in a unique environment.
 
 <!-- place for cood -->
-<!-- 
+<!--
 <img src="/static/images/venue/coffee.jpg" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
 
@@ -144,7 +144,7 @@ From jeans to suits, all are welcome! DjangoCon Europe is an inclusive space whe
 We want your experience to be the best it can be! If there's anything we haven't thought of that would help you attend our event or make it more enjoyable, please let us know! We're happy to work with you to find a solution. -->
 
 <!-- ### Venue Images( Outside) -->
-<!-- 
+<!--
 <div class="image-row">
     <div>
         <img src="/static/images/venue/terrace.png" alt="Third Planta ">

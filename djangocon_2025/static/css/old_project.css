@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap');
 
 html,
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .alert-debug {
@@ -18,7 +18,6 @@ body {
   border-color: #d6e9c6;
   color: #000;
 }
-
 
 .alert-error {
   background-color: #f2dede;
@@ -32,7 +31,7 @@ body {
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .alert-debug {
@@ -52,15 +51,23 @@ body {
 .home-subheader h4,
 .home-subheader .btn-tickets,
 .home-text {
-  font: normal normal normal 18px/24px Ubuntu, sans-serif;
-  font: normal normal normal 1.125rem/1.5rem Ubuntu, sans-serif;
+  font:
+    normal normal normal 18px/24px Ubuntu,
+    sans-serif;
+  font:
+    normal normal normal 1.125rem/1.5rem Ubuntu,
+    sans-serif;
 }
 
 .home-sponsors .sponsors-content h5,
 .important-dates .dates h4,
 .home-title {
-  font: normal normal normal 24px/28px Ubuntu, sans-serif;
-  font: normal normal normal 1.5rem/1.75rem Ubuntu, sans-serif;
+  font:
+    normal normal normal 24px/28px Ubuntu,
+    sans-serif;
+  font:
+    normal normal normal 1.5rem/1.75rem Ubuntu,
+    sans-serif;
 }
 
 @media (max-width: 991.98px) {
@@ -81,12 +88,12 @@ body {
   background-position: center bottom;
   background-size: auto 100%;
   background-color: #1d8238;
-  background-image: url("/static/images/background/homepage.png");
+  background-image: url('/static/images/background/homepage.png');
   background-repeat: no-repeat;
 }
 
 .home-header h3 {
-  color: #FFA300;
+  color: #ffa300;
 }
 
 .home-header .home-title {
@@ -103,7 +110,7 @@ body {
 }
 
 .home-subheader {
-  background: #003C80;
+  background: #003c80;
   border: none;
   padding-top: 48px;
   padding-top: 3rem;
@@ -115,7 +122,7 @@ body {
 .home-subheader .btn-tickets {
   height: auto;
   background: white;
-  color: #003C80;
+  color: #003c80;
   border-radius: 23px;
   max-width: 331px;
   padding: 10px 46px;
@@ -138,7 +145,10 @@ body {
   z-index: 1;
   display: flex;
   transition-property: transform;
-  transition-timing-function: var(--swiper-wrapper-transition-timing-function, initial);
+  transition-timing-function: var(
+    --swiper-wrapper-transition-timing-function,
+    initial
+  );
   box-sizing: content-box;
 }
 
@@ -186,15 +196,15 @@ body {
 
 .speakers .swiper-wrapper .swiper-slide p {
   display: inline-block;
-  background-color: #2C2C2C;
+  background-color: #2c2c2c;
   border-radius: 24px;
   -webkit-transition: all 0.1s ease-in-out;
   transition: all 0.1s ease-in-out;
 }
 
 .speakers .swiper-wrapper .swiper-slide p:hover {
-  -webkit-box-shadow: 0 0 10px 0 #0077C9;
-  box-shadow: 0 0 10px 0 #0077C9;
+  -webkit-box-shadow: 0 0 10px 0 #0077c9;
+  box-shadow: 0 0 10px 0 #0077c9;
   -webkit-transition: all 0.1s ease-in-out;
   transition: all 0.1s ease-in-out;
 }
@@ -202,7 +212,7 @@ body {
 .speakers .swiper-wrapper .swiper-slide strong,
 .speakers .swiper-wrapper .swiper-slide b {
   left: 10%;
-  color: #0077C9;
+  color: #0077c9;
   position: absolute;
 }
 
@@ -235,8 +245,8 @@ body {
 }
 
 .speakers .swiper-wrapper .swiper-slide .speaker-name:before {
-  content: "\f4da ";
-  font-family: "Bootstrap-icons";
+  content: '\f4da ';
+  font-family: 'Bootstrap-icons';
   position: absolute;
   top: 0;
   left: 0;
@@ -277,7 +287,7 @@ body {
 }
 
 .important-dates {
-  background-color: #863B35;
+  background-color: #863b35;
   padding-top: 48px;
   padding-top: 3rem;
   padding-bottom: 48px;
@@ -343,8 +353,8 @@ body {
 }
 
 .home-sponsors {
-  background: #EDEDEB;
-  color: #AC7870;
+  background: #ededeb;
+  color: #ac7870;
   padding-top: 48px;
   padding-top: 3rem;
   padding-bottom: 48px;
@@ -359,11 +369,11 @@ body {
 .home-sponsors .title {
   padding-bottom: 32px;
   padding-bottom: 2rem;
-  color: #863B35;
+  color: #863b35;
 }
 
 .home-sponsors .title strong {
-  color: #AC7870;
+  color: #ac7870;
 }
 
 .home-sponsors .margin-right {
@@ -376,8 +386,8 @@ body {
 
 .home-sponsors .sponsors-content h5 {
   text-align: start;
-  border-top: 2px solid #AC7870;
-  border-top: 0.125rem solid #AC7870;
+  border-top: 2px solid #ac7870;
+  border-top: 0.125rem solid #ac7870;
   max-width: 192px;
   max-width: 12rem;
   margin-top: 32px;
@@ -405,7 +415,7 @@ body {
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .alert-debug {
@@ -431,19 +441,23 @@ body {
 }
 
 .content-container .content-title h1 {
-  color: #863B35;
+  color: #863b35;
 }
 
 .content-container .content-title h1.parent-title {
   opacity: 30%;
-  color: #003C80;
+  color: #003c80;
   margin-bottom: 0;
 }
 
 .content-container .simple-content {
-  font: 18px/24px Ubuntu, sans-serif;
-  font: 1.125rem/1.5rem Ubuntu, sans-serif;
-  color: #003C80;
+  font:
+    18px/24px Ubuntu,
+    sans-serif;
+  font:
+    1.125rem/1.5rem Ubuntu,
+    sans-serif;
+  color: #003c80;
   text-decoration: none;
   overflow-x: auto !important;
 }
@@ -459,14 +473,14 @@ body {
 }
 
 .content-container .simple-content a {
-  color: #003C80;
+  color: #003c80;
 }
 
 .content-container .simple-content .btn {
-  color: #003C80;
-  border: 1px #003C80 solid;
-  border: 0.0625rem #003C80 solid;
-  background-color: #FFA300;
+  color: #003c80;
+  border: 1px #003c80 solid;
+  border: 0.0625rem #003c80 solid;
+  background-color: #ffa300;
 }
 
 .content-container img {
@@ -530,7 +544,7 @@ body {
 }
 
 .text-blue {
-  color: #863B35;
+  color: #863b35;
 }
 
 .text-hidden {
@@ -543,11 +557,11 @@ body {
 }
 
 .bg-grey {
-  background: #EDEDEB;
+  background: #ededeb;
 }
 
 .bg-light-grey {
-  background: #F2F2F0;
+  background: #f2f2f0;
 }
 
 html,
@@ -556,7 +570,7 @@ body {
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .alert-debug {
@@ -609,7 +623,7 @@ body {
 }
 
 .header {
-  background: #003C80;
+  background: #003c80;
   padding: 16px 0;
   padding: 1rem 0;
 }
@@ -625,7 +639,7 @@ body {
 }
 
 .header .dropdown-item:hover {
-  background-color: #003C80;
+  background-color: #003c80;
 }
 
 .header .nav-sm {
@@ -654,7 +668,7 @@ body {
 }
 
 .header .subnav {
-  background: #863B35;
+  background: #863b35;
 }
 
 .header .container-fluid {
@@ -663,7 +677,7 @@ body {
 }
 
 .header .dropdown-menu {
-  background: #863B35;
+  background: #863b35;
 }
 
 .header .dropdown-item {
@@ -671,11 +685,11 @@ body {
 }
 
 .top-banner {
-  background-color: #FFA300;
+  background-color: #ffa300;
 }
 
 .top-banner a {
-  color: #003C80;
+  color: #003c80;
 }
 
 html,
@@ -684,7 +698,7 @@ body {
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .alert-debug {
@@ -729,7 +743,7 @@ body {
 }
 
 .custom-footer {
-  background-color: #003C80;
+  background-color: #003c80;
   color: white;
 }
 
@@ -750,7 +764,7 @@ body {
   padding-top: 1rem;
   padding-bottom: 16px;
   padding-bottom: 1rem;
-  background: #AC7870;
+  background: #ac7870;
 }
 
 .custom-footer .footer-end p {
@@ -832,7 +846,7 @@ td {
 table,
 th,
 td {
-  border: 1px solid #003C80;
+  border: 1px solid #003c80;
   border-collapse: collapse;
 }
 

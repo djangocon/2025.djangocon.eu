@@ -2,7 +2,8 @@ title: sponsors
 layout: sponsor_page
 
 **Your logo can be here!** Discover the available sponsorship opportunities [here](https://2024.djangocon.eu/sponsors/sponsorship/).
-<!-- 
+
+<!--
 ##### Gold
 
 [![kolo](/static/images/sponsors/kolo.svg){:class='sponsor large'}](https://kolo.app/){:target="\_blank"}

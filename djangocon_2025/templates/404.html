@@ -1,13 +1,13 @@
-{% extends "base.html" %}
-
-{% load static %}
-{% block content %}
+{% extends "base.html" %} {% load static %} {% block content %}
 
 <div class="container-fluid content-container bg-grey">
   <div class="simple-content">
-    <div class="container ">
-      <h2>404 : {% if exception %}{{ exception }}{% else %}page not found{% endif %}</h2>
-      <img src="/static/images/other/404.gif" class="w-100"/>
+    <div class="container">
+      <h2>
+        404 : {% if exception %}{{ exception }}{% else %}page not found
+      {% endif %}
+      </h2>
+      <img src="/static/images/other/404.gif" class="w-100" />
     </div>
   </div>
 </div>

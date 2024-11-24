@@ -1,11 +1,11 @@
 layout: simple
 
-
 <h1 style="padding-top:6rem;" class="cfp-title">Talk Schedule</h1>
 
 ### Coming soon...
+
 <!-- All sessions are in Central European Summer Time (GMT+2). -->
-<!-- 
+<!--
 - **Talks** - June 5th-7th
 - **Workshops** - June 5th-7th
 - **Lightning Talks** - June 5th-7th (at the end of each day)

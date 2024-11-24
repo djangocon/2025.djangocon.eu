@@ -2,6 +2,7 @@ title: Apply Now
 layout: simple
 
 ### Application will soon be opened...
+
 <!-- The workshop is **free** of charge. Don't wait too long: you can apply for the workshop only until **May 12th 2024**!
 
 Register [HERE](https://djangogirls.org/en/vigo/apply/).
