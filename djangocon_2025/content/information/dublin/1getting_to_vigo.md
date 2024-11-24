@@ -2,7 +2,8 @@ title: How to get to Dublin
 layout: simple
 
 ### More Info Soon....
-<!-- 
+
+<!--
 Getting to Vigo is very easy; you can reach the city’s centre from Madrid, A Coruña, Santiago de Compostela or the north of Portugal. It has motorway and train connections with Madrid and other cities, like Bilbao. Moreover, the Peinador Airport has connections with Spain’s main cities and several international destinations. -->
 
 <!--
@@ -97,7 +98,7 @@ There are three main motorway entry routes:
 
 The Autovía del Noroeste (A-6) and the Autovía das Rías Baixas (A-52) motorways connect Vigo and Madrid. If you’re travelling to Vigo from Portugal, you can take the A-3 motorway, which links Porto, Lisbon and Braga with the Spanish border and then take AP-9 and A-55, which will take you straight to the centre of Vigo.
 
-Getting to Vigo by bus is also a possibility. There are direct bus lines to Vigo from Madrid, Barcelona and many other Spanish cities. The bus station is located in the city centre, in Travesía de Vigo St. Furthermore, there are international bus lines that will take you to Vigo from Portugal, France, Switzerland, Belgium, Holland, Denmark and Germany. --> 
+Getting to Vigo by bus is also a possibility. There are direct bus lines to Vigo from Madrid, Barcelona and many other Spanish cities. The bus station is located in the city centre, in Travesía de Vigo St. Furthermore, there are international bus lines that will take you to Vigo from Portugal, France, Switzerland, Belgium, Holland, Denmark and Germany. -->
 
 <!-- title: How to get there by plane
 layout: simple

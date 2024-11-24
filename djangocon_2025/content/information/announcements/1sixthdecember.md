@@ -1,4 +1,4 @@
-type: light-backgroud 
+type: light-backgroud
 layout: composed
 section: 6 December 2023
 

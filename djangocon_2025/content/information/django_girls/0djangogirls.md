@@ -1,7 +1,6 @@
 title: Django Girls Vigo
 layout: simple
 
-
 ### Coming soon...
 
 <!-- If you are a woman or in another way underrepresented gender-wise (a transgender person, including non-binary, or an intersex person) and want to learn how to make websites, we have good news for you: we are holding a one-day workshop for **beginners**!

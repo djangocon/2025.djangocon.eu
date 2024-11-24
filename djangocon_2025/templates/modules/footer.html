@@ -9,14 +9,14 @@
           <img src="{% static 'images/logo/logo_white.png' %}" alt="Logo">
         </a>
       </div> {% endcomment %}
-      <h1>STAY IN THE LOOP</h1>
+      <h1 class="custom-footer-h1">STAY IN THE LOOP</h1>
 
-      
+
       <div class="d-flex gap-5">
           {% for smedia, smedia_href in social_media.items %}
               {% with smedia_logo='images/external_logo/logo_'|add:smedia|add:'.svg' %}
                   <div class="col-2 text-center footer-social-media-link">
-                      <a class="nav-link" href="{{ smedia_href }}" target="_blank" rel="me">
+                      <a class="footer-link" href="{{ smedia_href }}" target="_blank" rel="me">
                           <img src="{% static smedia_logo %}" alt="{{ smedia }}" height="33rem">
                       </a>
                   </div>
@@ -40,7 +40,7 @@
     <div class="col row text-center align-self-center justify-content-center ">
       <p class="col-12">© 2025 DjangoCon Europe </p>
       <p class="col-12"><span class="d-none d-md-inline">·</span> developed in <a
-              href="https://djangoproject.com">django</a> with ♥ by <a
+              href="https://djangoproject.com">django</a> with <span style="color: red">♥</span> by <a
               href="https://evolutio.pt/">evolutio</a> <span class="d-none d-md-inline">·</span>
       </p>
       <p class="col-12"> help us improve on <a

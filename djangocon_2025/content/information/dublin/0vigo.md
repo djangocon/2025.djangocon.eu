@@ -2,7 +2,8 @@ title: vigo
 layout: simple
 
 ### Check back soon ...
-<!-- 
+
+<!--
 In the heart of "Rias Baixas" (Lower Rias), Vigo is the largest city in Galicia. Originally a fishing village, it is now known as the "Gateway to the Atlantic". It is a city with a great cultural and gastronomic offer, with a wide variety of restaurants and bars where you can taste some of the best seafood in the world.
 
 Nowadays a industrial city but also with a lot of life, with a great nightlife and many of leisure activities.

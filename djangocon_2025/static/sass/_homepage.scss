@@ -1,13 +1,17 @@
 // homepage
 
-@use "base";
+@use 'base';
 
 %HOME-TEXT {
-  font: normal normal normal 1.125rem/1.5rem Ubuntu, sans-serif;
+  font:
+    normal normal normal 1.125rem/1.5rem Ubuntu,
+    sans-serif;
 }
 
 %HOME-TITLE {
-  font: normal normal normal 1.5rem/1.75rem Ubuntu, sans-serif;
+  font:
+    normal normal normal 1.5rem/1.75rem Ubuntu,
+    sans-serif;
 }
 
 .home-text {
@@ -32,12 +36,12 @@
 }
 
 .home-header {
-  height:  80vh;
+  height: 80vh;
   min-height: 20rem;
   background-position: center bottom;
   background-size: auto 100%;
   background-color: base.$BgBlue;
-  background-image: url("/static/images/background/homepage.png");
+  background-image: url('/static/images/background/homepage.png');
   background-repeat: no-repeat;
 
   h3 {
@@ -54,8 +58,6 @@
   }
 }
 
-
-
 .home-subheader {
   background: base.$BgBlue;
   border: none;
@@ -69,7 +71,7 @@
     color: base.$BgBlue;
     border-radius: 23px;
     max-width: 331px;
-    padding: .625rem 2.875rem;
+    padding: 0.625rem 2.875rem;
     margin-top: 1.125rem;
     margin-bottom: 4rem;
     @extend %HOME-TEXT;
@@ -85,7 +87,6 @@
     }
   }
 }
-
 
 @media (max-width: 767.98px) {
   .important-dates {
@@ -106,7 +107,7 @@
         blockquote {
           display: block !important;
           width: auto;
-          padding: .875rem 1rem;
+          padding: 0.875rem 1rem;
 
           span {
             display: none;
@@ -121,7 +122,7 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
 
-  .title{
+  .title {
     padding-bottom: 2rem;
   }
   .dates {
@@ -133,7 +134,7 @@
       padding-top: 1.125rem;
       border-top: 0.125rem solid white;
       text-align: start;
-      margin: .875rem;
+      margin: 0.875rem;
       min-width: 12rem;
     }
     blockquote {
@@ -145,11 +146,11 @@
         display: flex;
         flex-wrap: wrap;
         flex: 1 0 0%;
-        padding: .875rem 0rem;
-        margin: 0rem .875rem;
+        padding: 0.875rem 0rem;
+        margin: 0rem 0.875rem;
         p {
           @extend %HOME-TEXT;
-          margin-top: .875rem;
+          margin-top: 0.875rem;
           text-align: start;
           display: block;
           width: 100%;
@@ -190,7 +191,6 @@
     display: block;
   }
 
-
   .sponsors-content {
     h5 {
       @extend %HOME-TITLE;
@@ -198,23 +198,25 @@
       border-top: 0.125rem solid $LightBrown;
       max-width: 12rem;
       margin-top: 2rem;
-      padding-top: .75rem;
-      margin-right: .875rem;
-      margin-left: .875rem;
+      padding-top: 0.75rem;
+      margin-right: 0.875rem;
+      margin-left: 0.875rem;
     }
     p {
-      padding-top: .75rem;
-      margin-right: .875rem;
-      margin-left: .875rem;
+      padding-top: 0.75rem;
+      margin-right: 0.875rem;
+      margin-left: 0.875rem;
     }
   }
 }
 
-
-.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
   padding-right: 0px !important;
   padding-left: 0px !important;
- 
 }
-

@@ -9,7 +9,6 @@ We had a whopping total of **174** proposals from **138** submitters. Our conten
 
 We had **156** talk and **18** workshop submissions
 
-
 From the **138** submitters, **51** were first time speakers and **43** felt part of an underrepresented group.
 
 #### Checkout the Charts

@@ -2,266 +2,144 @@
 <script defer src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 <script defer src="{% static 'js/audience.js'%}"></script>
 
-
-<div id="question-data-3" class="d-none"
-data-states='[{&quot;options&quot;: 36, &quot;options__answer&quot;: &quot;Productivity&quot;, &quot;count&quot;: 50}, {&quot;options&quot;: 29, &quot;options__answer&quot;: &quot;General Python&quot;, &quot;count&quot;: 50}, {&quot;options&quot;: 19, &quot;options__answer&quot;: &quot;Architecture&quot;, &quot;count&quot;: 50}, {&quot;options&quot;: 33, &quot;options__answer&quot;: &quot;Community&quot;, &quot;count&quot;: 43}, {&quot;options&quot;: 21, &quot;options__answer&quot;: &quot;Deployment&quot;, &quot;count&quot;: 36}, {&quot;options&quot;: 16, &quot;options__answer&quot;: &quot;Django Internals&quot;, &quot;count&quot;: 34}, {&quot;options&quot;: 35, &quot;options__answer&quot;: &quot;Teamwork&quot;, &quot;count&quot;: 29}, {&quot;options&quot;: 20, &quot;options__answer&quot;: &quot;DB&quot;, &quot;count&quot;: 28}, {&quot;options&quot;: 18, &quot;options__answer&quot;: &quot;Async&quot;, &quot;count&quot;: 27}, {&quot;options&quot;: 27, &quot;options__answer&quot;: &quot;Rest APIs&quot;, &quot;count&quot;: 25}, {&quot;options&quot;: 30, &quot;options__answer&quot;: &quot;Testing&quot;, &quot;count&quot;: 22}, {&quot;options&quot;: 24, &quot;options__answer&quot;: &quot;HTML/CSS/JavaScript&quot;, &quot;count&quot;: 19}, {&quot;options&quot;: 17, &quot;options__answer&quot;: &quot;Django Admin&quot;, &quot;count&quot;: 16}, {&quot;options&quot;: 31, &quot;options__answer&quot;: &quot;Security&quot;, &quot;count&quot;: 15}, {&quot;options&quot;: 22, &quot;options__answer&quot;: &quot;Documentation&quot;, &quot;count&quot;: 14}, {&quot;options&quot;: 34, &quot;options__answer&quot;: &quot;Health&quot;, &quot;count&quot;: 13}, {&quot;options&quot;: 23, &quot;options__answer&quot;: &quot;Forms&quot;, &quot;count&quot;: 9}, {&quot;options&quot;: 25, &quot;options__answer&quot;: &quot;htmx&quot;, &quot;count&quot;: 9}, {&quot;options&quot;: 32, &quot;options__answer&quot;: &quot;DSF&quot;, &quot;count&quot;: 5}, {&quot;options&quot;: 26, &quot;options__answer&quot;: &quot;GraphQL&quot;, &quot;count&quot;: 4}]'
-data-url="/orga/event/djangocon-europe-2024/submissions/?&amp;question=96&amp;"
->
-</div>
+<div
+  id="question-data-3"
+  class="d-none"
+  data-states='[{"options": 36, "options__answer": "Productivity", "count": 50}, {"options": 29, "options__answer": "General Python", "count": 50}, {"options": 19, "options__answer": "Architecture", "count": 50}, {"options": 33, "options__answer": "Community", "count": 43}, {"options": 21, "options__answer": "Deployment", "count": 36}, {"options": 16, "options__answer": "Django Internals", "count": 34}, {"options": 35, "options__answer": "Teamwork", "count": 29}, {"options": 20, "options__answer": "DB", "count": 28}, {"options": 18, "options__answer": "Async", "count": 27}, {"options": 27, "options__answer": "Rest APIs", "count": 25}, {"options": 30, "options__answer": "Testing", "count": 22}, {"options": 24, "options__answer": "HTML/CSS/JavaScript", "count": 19}, {"options": 17, "options__answer": "Django Admin", "count": 16}, {"options": 31, "options__answer": "Security", "count": 15}, {"options": 22, "options__answer": "Documentation", "count": 14}, {"options": 34, "options__answer": "Health", "count": 13}, {"options": 23, "options__answer": "Forms", "count": 9}, {"options": 25, "options__answer": "htmx", "count": 9}, {"options": 32, "options__answer": "DSF", "count": 5}, {"options": 26, "options__answer": "GraphQL", "count": 4}]'
+  data-url="/orga/event/djangocon-europe-2024/submissions/?&amp;question=96&amp;"
+></div>
 <div class="col-md-4">
-    <div id="question-stats" class="d-flex flex-column mt-4 pt-4">
-        <div id="question-answers-3"></div>
-        <div class="table-responsive mt-4">
-            <table class="table table-flip w-100">
-           <thead>
-               <th>Answer</th>
-               <th>Count</th>
-               <th class="text-center">%</th>
-           </thead>
-           <tbody>
-               
-                   <tr>
-                       <td>
-                           Productivity
-                       </td>
-                       <td class="text-center">
-                           50
-                       </td>
-                       <td class="flip text-right">
-                           29&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           General Python
-                       </td>
-                       <td class="text-center">
-                           50
-                       </td>
-                       <td class="flip text-right">
-                           29&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Architecture
-                       </td>
-                       <td class="text-center">
-                           50
-                       </td>
-                       <td class="flip text-right">
-                           29&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Community
-                       </td>
-                       <td class="text-center">
-                           43
-                       </td>
-                       <td class="flip text-right">
-                           25&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Deployment
-                       </td>
-                       <td class="text-center">
-                           36
-                       </td>
-                       <td class="flip text-right">
-                           21&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Django Internals
-                       </td>
-                       <td class="text-center">
-                           34
-                       </td>
-                       <td class="flip text-right">
-                           20&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Teamwork
-                       </td>
-                       <td class="text-center">
-                           29
-                       </td>
-                       <td class="flip text-right">
-                           17&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           DB
-                       </td>
-                       <td class="text-center">
-                           28
-                       </td>
-                       <td class="flip text-right">
-                           16&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Async
-                       </td>
-                       <td class="text-center">
-                           27
-                       </td>
-                       <td class="flip text-right">
-                           16&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Rest APIs
-                       </td>
-                       <td class="text-center">
-                           25
-                       </td>
-                       <td class="flip text-right">
-                           14&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Testing
-                       </td>
-                       <td class="text-center">
-                           22
-                       </td>
-                       <td class="flip text-right">
-                           13&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           HTML/CSS/JavaScript
-                       </td>
-                       <td class="text-center">
-                           19
-                       </td>
-                       <td class="flip text-right">
-                           11&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Django Admin
-                       </td>
-                       <td class="text-center">
-                           16
-                       </td>
-                       <td class="flip text-right">
-                           9&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Security
-                       </td>
-                       <td class="text-center">
-                           15
-                       </td>
-                       <td class="flip text-right">
-                           9&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Documentation
-                       </td>
-                       <td class="text-center">
-                           14
-                       </td>
-                       <td class="flip text-right">
-                           8&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Health
-                       </td>
-                       <td class="text-center">
-                           13
-                       </td>
-                       <td class="flip text-right">
-                           7&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           Forms
-                       </td>
-                       <td class="text-center">
-                           9
-                       </td>
-                       <td class="flip text-right">
-                           5&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           htmx
-                       </td>
-                       <td class="text-center">
-                           9
-                       </td>
-                       <td class="flip text-right">
-                           5&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           DSF
-                       </td>
-                       <td class="text-center">
-                           5
-                       </td>
-                       <td class="flip text-right">
-                           3&nbsp;%
-                       </td>
-                   </tr>
-               
-                   <tr>
-                       <td>
-                           GraphQL
-                       </td>
-                       <td class="text-center">
-                           4
-                       </td>
-                       <td class="flip text-right">
-                           2&nbsp;%
-                       </td>
-                   </tr>
-               
-           </tbody>
-       </table>
-   </div></div>
+  <div id="question-stats" class="d-flex flex-column mt-4 pt-4">
+    <div id="question-answers-3"></div>
+    <div class="table-responsive mt-4">
+      <table class="table table-flip w-100">
+        <thead>
+          <th>Answer</th>
+          <th>Count</th>
+          <th class="text-center">%</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Productivity</td>
+            <td class="text-center">50</td>
+            <td class="flip text-right">29&nbsp;%</td>
+          </tr>
 
+          <tr>
+            <td>General Python</td>
+            <td class="text-center">50</td>
+            <td class="flip text-right">29&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Architecture</td>
+            <td class="text-center">50</td>
+            <td class="flip text-right">29&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Community</td>
+            <td class="text-center">43</td>
+            <td class="flip text-right">25&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Deployment</td>
+            <td class="text-center">36</td>
+            <td class="flip text-right">21&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Django Internals</td>
+            <td class="text-center">34</td>
+            <td class="flip text-right">20&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Teamwork</td>
+            <td class="text-center">29</td>
+            <td class="flip text-right">17&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>DB</td>
+            <td class="text-center">28</td>
+            <td class="flip text-right">16&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Async</td>
+            <td class="text-center">27</td>
+            <td class="flip text-right">16&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Rest APIs</td>
+            <td class="text-center">25</td>
+            <td class="flip text-right">14&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Testing</td>
+            <td class="text-center">22</td>
+            <td class="flip text-right">13&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>HTML/CSS/JavaScript</td>
+            <td class="text-center">19</td>
+            <td class="flip text-right">11&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Django Admin</td>
+            <td class="text-center">16</td>
+            <td class="flip text-right">9&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Security</td>
+            <td class="text-center">15</td>
+            <td class="flip text-right">9&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Documentation</td>
+            <td class="text-center">14</td>
+            <td class="flip text-right">8&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Health</td>
+            <td class="text-center">13</td>
+            <td class="flip text-right">7&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>Forms</td>
+            <td class="text-center">9</td>
+            <td class="flip text-right">5&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>htmx</td>
+            <td class="text-center">9</td>
+            <td class="flip text-right">5&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>DSF</td>
+            <td class="text-center">5</td>
+            <td class="flip text-right">3&nbsp;%</td>
+          </tr>
+
+          <tr>
+            <td>GraphQL</td>
+            <td class="text-center">4</td>
+            <td class="flip text-right">2&nbsp;%</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 </div>

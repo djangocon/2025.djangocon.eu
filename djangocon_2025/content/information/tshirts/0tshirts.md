@@ -1,7 +1,5 @@
 layout: simple
 
-
-
 <h1 style="padding-top:6rem;" class="cfp-title">T-Shirts</h1>
 
 #### Preparing hold on...
