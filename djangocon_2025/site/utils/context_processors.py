@@ -14,7 +14,7 @@ def links(request):
                 "dropdown": "true",
                 "submenu": {
                     "Dublin": "/information/dublin/",
-                    # "Venue": "/information/venue/",
+                    "Venue": "/information/venue/",
                     "Grants": "/information/grants/",
                     "Sprints": "/information/sprints/",
                     # "Django Girls": "/information/django_girls/",
