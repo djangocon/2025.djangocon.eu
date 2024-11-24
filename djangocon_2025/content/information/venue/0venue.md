@@ -1,13 +1,11 @@
-title: Venue
 layout: simple
+<h1 style="padding-top:5rem;" class="cfp-title">Venue</h1>
 
-<!-- The venue is located at the very heart of Vigo, on the seafront, facing the Cíes Islands and Mar de Vigo.
-<!--
-**DjangoCon Europe** is thrilled to announce its latest edition will be held in the vibrant city of Vigo, Spain, at the prestigious **Auditorium Mar de Vigo**.
+**DjangoCon Europe 2024** be held in Dublin! The capital of the Republic of Ireland, one of Europe’s biggest tech hubs, is a lively city with extraordinarily rich and diverse food, culture, history and art lovers - the number of museums and restaurants can certainly tickle most tastes.
 
-Nestled at the heart of **Vigo**, this exquisite venue boasts a prime seafront location, offering breathtaking views of the Cíes Islands and the expansive Mar de Vigo.
+As per DjangoCon tradition, we shall walk around, chat, laugh and explore the city together. If you are not the "walking-type", let the convenient public transportation network work its magic for you!
 
-The Auditorium Mar de Vigo is celebrated not only for its architectural brilliance but also for its state-of-the-art facilities, making it an ideal setting for the gathering of Django enthusiasts from across Europe and beyond.
+<!-- The Auditorium Mar de Vigo is celebrated not only for its architectural brilliance but also for its state-of-the-art facilities, making it an ideal setting for the gathering of Django enthusiasts from across Europe and beyond. -->
 
 Prepare to immerse yourself in cutting-edge Django developments, network with fellow professionals, and draw inspiration from the stunning natural beauty that surrounds this exceptional location. Join us for an unforgettable experience at DjangoCon Europe, where innovation meets the scenic tranquility of Spain's Atlantic coastline.
 
@@ -16,7 +14,6 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 
 ### Credentials
 
----
 
 <div class="">
     <div>
@@ -29,7 +26,6 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 
 ### Conference Arrangement
 
----
 
 #### Welcome Reception & Registration
 
@@ -85,7 +81,7 @@ The Vigo Conference Center Auditorium has its own catering service characterized
   Enjoy impeccable, professional, top quality service in a unique environment.
 
 <!-- place for cood -->
-<!--
+<!-- 
 <img src="/static/images/venue/coffee.jpg" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
 
