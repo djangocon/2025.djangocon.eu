@@ -1,6 +1,6 @@
 layout: simple
 
-<h1 style="padding-top:6rem;" class="cfp-title">Opportunity Grants - Opening soon...</h1>
+<h1 class="cfp-title">Opportunity Grants - Opening soon...</h1>
 
 **DjangoCon Europe 2025 offers grants so that those who might otherwise not be able to attend won't hesitate to participate.** Some expenses for the conference attendance (which could include travel, hotel, registration, etc) will be covered for opportunity grant recipients.
 

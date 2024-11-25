@@ -1,7 +1,7 @@
 layout: simple
 <h1 class="cfp-title" >Venue</h1>
 
-**DjangoCon Europe 2024** be held in Dublin! The capital of the Republic of Ireland, one of Europe’s biggest tech hubs, is a lively city with extraordinarily rich and diverse food, culture, history and art lovers - the number of museums and restaurants can certainly tickle most tastes.
+**DjangoCon Europe 2025** will be held in Dublin! The capital of the Republic of Ireland, one of Europe’s biggest tech hubs, is a lively city with extraordinarily rich and diverse food, culture, history and art lovers - the number of museums and restaurants can certainly tickle most tastes.
 <!-- The venue is located at the very heart of Vigo, on the seafront, facing the Cíes Islands and Mar de Vigo.
 <!--
 **DjangoCon Europe** is thrilled to announce its latest edition will be held in the vibrant city of Vigo, Spain, at the prestigious **Auditorium Mar de Vigo**.
@@ -10,7 +10,7 @@ As per DjangoCon tradition, we shall walk around, chat, laugh and explore the ci
 
 <!-- The Auditorium Mar de Vigo is celebrated not only for its architectural brilliance but also for its state-of-the-art facilities, making it an ideal setting for the gathering of Django enthusiasts from across Europe and beyond. -->
 
-Prepare to immerse yourself in cutting-edge Django developments, network with fellow professionals, and draw inspiration from the stunning natural beauty that surrounds this exceptional location. Join us for an unforgettable experience at DjangoCon Europe, where innovation meets the scenic tranquility of Spain's Atlantic coastline.
+Prepare to immerse yourself in cutting-edge Django developments, network with fellow professionals, and draw inspiration from the stunning natural beauty that surrounds this exceptional location. Join us for an unforgettable experience at DjangoCon Europe!
 
 <img src="/static/images/venue/2025_venue.png" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://www.irelandhotels.com/properties.html/talbot-hotel-stillorgan--" style="color:white">Irelandhotels</a></em></p>
@@ -37,33 +37,33 @@ Discover the vibrant spirit of DjangoCon Europe 2025 at **Talbot Hotel Stillorga
 
 <h1 style="font-size:25px" class="cfp-title"><u>Attend the Conference</u></h1>
 
-You can find detailed information on how to get to The Talbot Hotel Stillorgan [here](https://www.talbothotelstillorgan.com/index.html){: style="color:#36BC5B; font-weight:bold"}.
+You can find detailed information on how to get to The Talbot Hotel Stillorgan <a href="https://www.talbothotelstillorgan.com/index.html" class="pages-links">here</a>.
 
 <h1 style="font-size:25px" class="cfp-title">By Plane</h1>
 
-[Dublin Airport (DUB)](https://www.dublinairport.com/){: style="color:#36BC5B; font-weight:bold"}.  is a convenient gateway to DjangoCon Europe 2025 at Talbot Hotel Stillorgan. With easy access by car, taxi, or public transport, the venue is well-connected, ensuring a hassle-free journey for attendees.
+<a href="https://www.dublinairport.com/" class="pages-links">Dublin Airport (DUB)</a>.  is a convenient gateway to DjangoCon Europe 2025 at Talbot Hotel Stillorgan. With easy access by car, taxi, or public transport, the venue is well-connected, ensuring a hassle-free journey for attendees.
 
 <!-- Bus -->
 <h1 style="font-size:25px" class="cfp-title">By Bus</h1>
 
-- From Dublin Airport, the [Aircoach](https://www.aircoach.ie/){: style="color:#36BC5B; font-weight:bold"}. 702 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection.
-- [Dublin Express](https://www.dublinairport.com/to-from-the-airport/by-bus/dublin-buses){: style="color:#36BC5B; font-weight:bold"}.offers a direct service from Dublin Airport to Custom House, a short walk from the DjangoCon Europe 2025 venue (Talbot Hotel Stillorgan). The price typically ranges from €10 to €15, and the journey takes around 30 minutes, depending on traffic.
+- From Dublin Airport, the <a href="https://www.aircoach.ie/" class="pages-links">Aircoach</a>. 702 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection.
+- <a href="https://www.dublinairport.com/to-from-the-airport/by-bus/dublin-buses" class="pages-links">Dublin Express</a>.offers a direct service from Dublin Airport to Custom House, a short walk from the DjangoCon Europe 2025 venue (Talbot Hotel Stillorgan). The price typically ranges from €10 to €15, and the journey takes around 30 minutes, depending on traffic.
 
 
 <!-- Taxi -->
 <h1 style="font-size:25px" class="cfp-title">By Taxi</h1>
 
-<!-- - From Dublin Airport, the [Aircoach](https://www.aircoach.ie/){: style="color:#36BC5B; font-weight:bold"}. 702 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection. -->
-- [Free Now](https://free-now.com/ie/){: style="color:#36BC5B; font-weight:bold"}. is something you should check out .
+<!-- - From Dublin Airport, the <a href="https://www.aircoach.ie/" class="pages-links">Aircoach</a>. 702 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection. -->
+- <a href="https://free-now.com/ie/" class="pages-links">Free Now</a>. is something you should check out .
 
 
 <!-- SEA -->
 
 <h1 style="font-size:25px" class="cfp-title">By Sea</h1>
 
-For those arriving by sea, Dublin offers excellent connections to the UK and mainland Europe. [Dublin Port](http://www.dublinport.ie/){: style="color:#36BC5B; font-weight:bold"}, located just a short distance from the city center, is the main entry point for ferries. From there, it’s about a 30-minute drive or taxi ride to Talbot Hotel Stillorgan, where DjangoCon Europe 2025 will be held.
+For those arriving by sea, Dublin offers excellent connections to the UK and mainland Europe. <a href="http://www.dublinport.ie/" class="pages-links">Dublin Port</a>, located just a short distance from the city center, is the main entry point for ferries. From there, it’s about a 30-minute drive or taxi ride to Talbot Hotel Stillorgan, where DjangoCon Europe 2025 will be held.
 
-If you're traveling from further afield, [Rosslare Harbour](http://rosslareeuroport.irishrail.ie/home/){: style="color:#36BC5B; font-weight:bold"}. , which services ferries to Wales, France, and Spain, is approximately a two-hour drive from Talbot Hotel Stillorgan. With regular ferry routes and convenient access to Dublin’s transport options, arriving by sea is a viable and scenic choice for attendees traveling from Europe.
+If you're traveling from further afield, <a href="http://rosslareeuroport.irishrail.ie/home/" class="pages-links">Rosslare Harbour</a> , which services ferries to Wales, France, and Spain, is approximately a two-hour drive from Talbot Hotel Stillorgan. With regular ferry routes and convenient access to Dublin’s transport options, arriving by sea is a viable and scenic choice for attendees traveling from Europe.
 
 
 
@@ -71,27 +71,27 @@ If you're traveling from further afield, [Rosslare Harbour](http://rosslareeurop
 <h1 style="font-size:25px" class="cfp-title">By Train & Bus</h1>
 There are National Train and Bus services running between various Irish cities and Dublin. Some useful links are:
 
-- [Irish Rail](http://www.irishrail.ie/){: style="color:#36BC5B; font-weight:bold"}.
-- [Bus Eireann](http://www.buseireann.ie/){: style="color:#36BC5B; font-weight:bold"}.
+- <a href="http://www.irishrail.ie/" class="pages-links">Irish Rail</a>.
+- <a href="http://www.buseireann.ie/" class="pages-links">Bus Eireann</a>.
 
 <!-- CAR -->
 
 <h1 style="font-size:25px" class="cfp-title">By Car</h1>
 
-[AA Roadwatch](https://www.theaa.ie/routes/newsroom/){: style="color:#36BC5B; font-weight:bold"} provides regular updates on traffic and weather conditions on major routes throughout Ireland. You can also plan your journey with AA Routeplanner or Google Maps. [LiveDrive on 103.2](https://www2.livedrive.com/){: style="color:#36BC5B; font-weight:bold"}. Dublin City FM also gives live traffic updates during peak drive time.
+<a href="https://www.theaa.ie/routes/newsroom/" class="pages-links">AA Roadwatch</a> provides regular updates on traffic and weather conditions on major routes throughout Ireland. You can also plan your journey with AA Routeplanner or Google Maps. <a href="https://www2.livedrive.com/" class="pages-links">LiveDrive on 103.2</a>. Dublin City FM also gives live traffic updates during peak drive time.
 
 
 <!-- COVID INFO -->
 <h1 class="cfp-title" style="font-size:30px">COVID Info</h1>
 
-For any COVID related information in Dublin, please refer to our dedicate [COVID Info page](https://ep2022.europython.eu/covid-info){: style="color:#36BC5B; font-weight:bold"} and the Government [public health measures](https://www.gov.ie/en/campaigns/c36c85-covid-19-coronavirus/){: style="color:#36BC5B; font-weight:bold"}.
+For any COVID related information in Dublin, please refer to our dedicate <a href="https://ep2022.europython.eu/covid-info" class="pages-links">COVID Info page</a> and the Government <a href="https://www.gov.ie/en/campaigns/c36c85-covid-19-coronavirus/" class="pages-links">public health measures</a>.
 
 
 <!-- TOURIST -->
 <h1 class="cfp-title" style="font-size:30px">Tourist Tips: Around Dublin</h1>
 
-- You can buy the [Freedom Ticket card](https://dodublin.ie/dodublin-card){: style="color:#36BC5B; font-weight:bold"} for €45. You have 48 hours for the "Hop on/Hop off" tour and 72 Hours for using the Dublin Bus Network. This includes the 16, 41 routes from Dublin Airport to City centre, Go-Ahead Dublin public buses, [Luas](https://luas.ie/){: style="color:#36BC5B; font-weight:bold"}, [Dublin Area Rapid Transit](https://www.irishrail.ie/en-ie/about-us/iarnrod-eireann-services/dart-commuter){: style="color:#36BC5B; font-weight:bold"} (in Dublin area only).
-- Another option is to buy a [Leap Visitors Card](https://about.leapcard.ie/leap-visitor-card){: style="color:#36BC5B; font-weight:bold"}. It gives you unlimited travel over your selected time period on [Dublin Bus](http://www.dublinbus.ie/){: style="color:#36BC5B; font-weight:bold"}, Go-Ahead Ireland routes in Dublin, [Luas](https://luas.ie/){: style="color:#36BC5B; font-weight:bold"}., [Dublin Area Rapid Transit](https://www.irishrail.ie/en-ie/about-us/iarnrod-eireann-services/dart-commuter){: style="color:#36BC5B; font-weight:bold"} and Commuter Rail. You can travel to and from the Airport at the start and end of your trip without any additional charge. For 24 hours the price is €10, 3 days is €25 and 7 days is €40.
+- You can buy the <a href="https://dodublin.ie/dodublin-card" class="pages-links">Freedom Ticket card</a> for €45. You have 48 hours for the "Hop on/Hop off" tour and 72 Hours for using the Dublin Bus Network. This includes the 16, 41 routes from Dublin Airport to City centre, Go-Ahead Dublin public buses, <a href="https://luas.ie/" class="pages-links">Luas</a>, <a href="https://www.irishrail.ie/en-ie/about-us/iarnrod-eireann-services/dart-commuter" class="pages-links">Dublin Area Rapid Transit</a> (in Dublin area only).
+- Another option is to buy a <a href="https://about.leapcard.ie/leap-visitor-card" class="pages-links">Leap Visitors Card</a>. It gives you unlimited travel over your selected time period on <a href="http://www.dublinbus.ie/" class="pages-links">Dublin Bus</a>, Go-Ahead Ireland routes in Dublin, <a href="https://luas.ie/" class="pages-links">Luas</a>, <a href="https://www.irishrail.ie/en-ie/about-us/iarnrod-eireann-services/dart-commuter" class="pages-links">Dublin Area Rapid Transit</a> and Commuter Rail. You can travel to and from the Airport at the start and end of your trip without any additional charge. For 24 hours the price is €10, 3 days is €25 and 7 days is €40.
 
 
 <!-- <div class="">
@@ -116,7 +116,7 @@ For any COVID related information in Dublin, please refer to our dedicate [COVID
 
 #### Accessibility
 
-We're dedicated to making our conference accessible to all. Find details and resources here. Need more info or specific accommodations? Contact us at [2024@djangocon.eu](mailto:2024@djangocon.eu).
+We're dedicated to making our conference accessible to all. Find details and resources here. Need more info or specific accommodations? Contact us at [2025@djangocon.eu](mailto:2025@djangocon.eu).
 
 #### Inclusive Conference
 
@@ -129,7 +129,7 @@ We're dedicated to making our conference accessible to all. Find details and res
 
 #### Low Vision or Hard of Hearing
 
-Preferred seating will be provided for attendees who request it. Please [contact](mailto:2024@djangocon.eu) us about any lighting requirements you may have, and we will do our best to meet them.
+Preferred seating will be provided for attendees who request it. Please [contact](mailto:2025@djangocon.eu) us about any lighting requirements you may have, and we will do our best to meet them.
 Creating an inclusive experience is essential! We offer reserved seating for those with visual impairments. Let us know if you have specific lighting, screen display, or assistive technology needs, and we'll do our best to accommodate them.
 
 #### Speaker Talks & Sponsor Expo

@@ -27,7 +27,7 @@ layout: socialevent_page
 <img class="GFG" src="/static/images/other/glow.png" alt="Social Party" style="width:100%; max-width: 600px; border-radius: 30px; box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;">
 <p style="font-family:roboto"><em>Photo Source: <a href="https://openai.com/index/dall-e-2/" class="glow-text   ">Dall-E</a></em></p>
 
-#### Don't miss out the one and only Platform Glow Party on DjangoCon Europe 2024
+#### Don't miss out the one and only Platform Glow Party on DjangoCon Europe 2025
 
 Location:**Mar de Vigo Auditorium Rooftop**
 Date: **June 7**

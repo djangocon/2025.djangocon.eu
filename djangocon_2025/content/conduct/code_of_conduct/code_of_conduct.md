@@ -1,12 +1,12 @@
 layout: simple
 
-<h1 style="padding-top:6rem;" class="cfp-title">code of conduct</h1>
+<h1 class="cfp-title">code of conduct</h1>
 
 Everybody who participates in DjangoCon Europe in some way must conform to this Code of Conduct (CoC)—attendees, speakers, sponsors, organizers, volunteers, and event staff.
 
-The organizers will introduce a Code of Conduct team that will be primarily responsible for handling any incidents. The CoC applies before and throughout the event (including related activities such as social events and social media). We have also published our [response guidelines](/conduct/response_guide/).
+The organizers will introduce a Code of Conduct team that will be primarily responsible for handling any incidents. The CoC applies before and throughout the event (including related activities such as social events and social media). We have also published our <a href="/conduct/response_guide/" class="pages-links">response guidelines</a>.
 
-The team can be reached at [conduct@djangocon.eu](mailto:conduct@djangocon.eu).
+The team can be reached at <a href="mailto:conduct@djangocon.eu" class="pages-links">conduct@djangocon.eu</a>.
 
 We thank the DjangoCon Europe 2019 CoC team for the awesome CoC (which we adapted with minor modifications) and the response guidelines (which we have adopted almost unedited from 2018).
 
@@ -19,7 +19,7 @@ Our goals with having this Code of Conduct are:
 - Helping everyone feel safe and included. Attendees may have had poor experiences at other events or may have been first-timers. We want to set the expectation that harassment and other unpleasant behavior are unacceptable. This way, people with an unpleasant experience know that it is neither the norm nor acceptable to us as a community.
 - Helping to build trust that if an incident is reported, we will not respond with victim blaming and will proceed with a thorough investigation. This will be true even if the incident involves someone in a position of power, for example.
 - Informing everyone of the expected behavior. We are a diverse community, and having a Code of Conduct makes the expectations of everybody's behavior explicit and transparent.
-- Having a framework for report handling (see the [response guidelines](/conduct/response_guide/). The Code of Conduct is the basis for dealing with a report, assessing whether the CoC was violated, and what action should be taken.
+- Having a framework for report handling (see the <a href="/conduct/response_guide/" class="pages-links">response guidelines</a>). The Code of Conduct is the basis for dealing with a report, assessing whether the CoC was violated, and what action should be taken.
 
 <hr/>
 
@@ -53,7 +53,7 @@ This Code of Conduct applies to all conference-related spaces. That includes, bu
 
 - The conference's online platform
 - Any conference-related social activities
-- [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg){:target="\_blank"} channels, tweets with the conference hashtag, and other online media
+- <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg" class="pages-links" target="\_blank">Slack</a> channels, tweets with the conference hashtag, and other online media
 - The Code of Conduct does not exclusively apply to events on the conference agenda. For example, if after a scheduled social event, you go to a bar with a group of fellow participants and someone harasses you there, we would still treat that as a CoC violation.
 
 <hr/>
@@ -73,7 +73,7 @@ In case of a Code of Conduct violation, some of the most common actions organize
 
 #### Where to report incidents
 
-If a Code of Conduct incident happens to you, or you witness it happening to someone else, please get in touch with the CoC team immediately, either in [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg){:target="\_blank"} or by sending an email to [conduct@djangocon.eu](mailto:conduct@djangocon.eu).
+If a Code of Conduct incident happens to you, or you witness it happening to someone else, please get in touch with the CoC team immediately, either in <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg" target="\_blank" class="pages-links">Slack</a> or by sending an email to <a href="mailto:conduct@djangocon.eu" class="pages-links">conduct@djangocon.eu</a>.
 
 Your report will be treated confidentially and only be discussed with the CoC team.
 
@@ -105,7 +105,7 @@ If you don't have some of this information or not at this time, please still mak
 
 If you feel unsafe reporting in person, you may choose someone to represent you. In this case, we'd need their contact information, but we'd ask this person to make it clear that they are not reporting in their own name.
 
-When handling a report, we follow our [response guidelines](/conduct/response_guide/).
+When handling a report, we follow our <a href="/conduct/response_guide/" class="pages-links">response guidelines</a>.
 
 <hr/>
 
