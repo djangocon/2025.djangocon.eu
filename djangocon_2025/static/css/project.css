@@ -29,8 +29,8 @@
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
+  width: 8px;
+  height: 8px;
 }
 
 ::-webkit-scrollbar-track {
@@ -42,6 +42,21 @@
   border-radius: 10px;
 }
 
+@media (max-width: 1040px) {
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+}
+
+@media (max-width: 768px) {
+  ::-webkit-scrollbar {
+    width: 3px;
+    height: 3px;
+  }
+}
+
+
 body {
   font-family: var(--main-font);
   font-weight: normal;
@@ -49,6 +64,10 @@ body {
   color: var(--light-cream);
   margin: 0;
   padding: 0;
+}
+
+.pages-links {
+  color: #97EB61 !important;
 }
 
 .homepage-container {
@@ -1463,7 +1482,7 @@ th {
 table,
 td,
 th {
-  border: 1px solid #003c80;
+  border: 1px solid rgba(0, 255, 0, 0.3);
   border-collapse: collapse;
 }
 
@@ -3085,6 +3104,7 @@ object[type='application/pdf'] {
   .hero-btn {
     margin: 0 auto;
   }
+
   .hero-section {
     min-height: 50vh;
   }

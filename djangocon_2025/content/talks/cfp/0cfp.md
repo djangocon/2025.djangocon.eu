@@ -1,13 +1,12 @@
 layout: simple
 
-<h1 style="padding-top:6rem;" class="cfp-title">Call for Proposals - open</h1>
+<h1 class="cfp-title">Call for Proposals - open</h1>
 
 This page contains all information regarding the proposal process for DjangoCon Europe – we will update it regularly as new information becomes available.
 
 It's a new year. What better way to start it than submitting your talk or workshop for **DjangoCon Europe 2025**, in beautiful **Dublin, Ireland?**
 
-The **Call for Proposals (CFP)** is open now and will be open until midnight on January 12th [AoE Time Zone](https://www.timeanddate.com/time/zones/aoe); please check the CFP for your timezone specifics. That's plenty of time, you don't have to leave it to the last minute:
-
+The **Call for Proposals (CFP)** is open now and will be open until midnight on January 12th <a href="https://www.timeanddate.com/time/zones/aoe" class="pages-links">AoE Time Zone</a>; please check the CFP for your timezone specifics. That's plenty of time, you don't have to leave it to the last minute.
 <!-- [DjangoCon Europe 2025, Dublin CFP](https://pretalx.evolutio.pt/djangocon-europe-2025/cfp) -->
 
 <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/cfp" class="hero-btn "style="text-decoration:none; color:white">Submit Proposal</a>
@@ -20,13 +19,13 @@ If you've got half an idea or are still deciding in any way and want to chat, yo
 
 Please don't be shy; we want to hear from you!
 
-<a href="https://pretalx.evolutio.pt/djangocon-europe-2025/cfp" style="color:#97EB61;">DjangoCon Europe 2025, Dublin CFP</a>
+<a href="https://pretalx.evolutio.pt/djangocon-europe-2025/cfp" class="pages-links">DjangoCon Europe 2025, Dublin CFP</a>
 
-We'll see you in Vigo!
+We'll see you in Dublin!
 
-If you have any questions, please do not hesitate to contact us at <a href="mailto:content@djangocon.eu" style="color:#97EB61;">content@djangocon.eu</a> Don't forget to follow us on Twitter <a href="https://twitter.com/djangoconeurope" style="color:#97EB61;">@DjangoCon Europe</a> for the latest up to date information!
+If you have any questions, please do not hesitate to contact us at <a href="mailto:content@djangocon.eu" class="pages-links">content@djangocon.eu</a> Don't forget to follow us on Twitter <a href="https://twitter.com/djangoconeurope" class="pages-links">@DjangoCon Europe</a> for the latest up to date information!
 
-If you think you have something great to discuss, submit your idea! If you are unsure, talk it over with somebody, or go to <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-1gjg5lqkz-qVQkNnhjztXVme7TQ7ziQA" style="color:#97EB61;">Slack</a> to find previous speakers and participants to discuss your idea with. **When in doubt, submit your talk 😉!**
+If you think you have something great to discuss, submit your idea! If you are unsure, talk it over with somebody, or go to <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-1gjg5lqkz-qVQkNnhjztXVme7TQ7ziQA" class="pages-links">Slack</a> to find previous speakers and participants to discuss your idea with. **When in doubt, submit your talk 😉!**
 
 CfP powered by:
 

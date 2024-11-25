@@ -3,7 +3,7 @@ layout: simple
 
 You are most welcome to get in touch if you have questions.
 
-- [2024@djangocon.eu](mailto:2024@djangocon.eu)
-- [sponsors@djangocon.eu](mailto:sponsors@djangocon.eu)
-- [content@djangocon.eu](mailto:content@djangocon.eu)
-- [conduct@djangocon.eu](mailto:conduct@djangocon.eu)
+- <a href="mailto:2025@djangocon.eu" class="pages-links">2025@djangocon.eu</a>
+- <a href="mailto:sponsors@djangocon.eu" class="pages-links">sponsors@djangocon.eu</a>
+- <a href="mailto:content@djangocon.eu" class="pages-links">content@djangocon.eu</a>
+- <a href="mailto:conduct@djangocon.eu" class="pages-links">conduct@djangocon.eu</a>

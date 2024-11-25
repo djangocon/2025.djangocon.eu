@@ -10,7 +10,7 @@ When you are an organizer or volunteer not on the CARE team, the general guideli
 
 - If you can easily find a member of the CARE team, do that, and let them handle the incident from there on. In that case, you don’t need to do anything else. If you were a witness, the CARE team may ask for more information later.
 - If you can't easily find a CARE team member, write down the details of the incident: what happened, who was involved, when and where this happened, whether the incident is ongoing, and how we can contact the reporter. If someone is reluctant to provide some of this information or doesn’t know, do not pressure them.
-- If possible, the reporter can also send a mail to [conduct@djangocon.eu](mailto:conduct@djangocon.eu). This is helpful, as it gives the CARE team a first-hand written account.
+- If possible, the reporter can also send a mail to <a href="mailto:conduct@djangocon.eu" class="pages-links">conduct@djangocon.eu</a>. This is helpful, as it gives the CARE team a first-hand written account.
 - In any case, could you pass the details you noted to a CARE team member as soon as possible?
 - If you'd like to, please try to arrange for an escort by staff or a trusted person, help the reporter contact a friend, or contact local law enforcement. Please don't do any of these actions if the reporter doesn't want them.
 - Do not share any of the information with anyone else.

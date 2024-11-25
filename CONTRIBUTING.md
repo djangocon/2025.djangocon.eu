@@ -1,20 +1,20 @@
-# Contributing to DjangoCon Europe 2024
+# Contributing to DjangoCon Europe 2025
 
 Thank you so much for taking the time to contribute!
 
-The following is a set of guidelines for contributing to DjangoCon Europe 2024.
+The following is a set of guidelines for contributing to DjangoCon Europe 2025.
 
 ## How Can I Help?
 
-Start looking through the [Issues](https://github.com/djangocon/2024.djangocon.eu/issues) and watch out for any issues with the green label [`up-for-grabs`](https://github.com/djangocon/2024.djangocon.eu/labels/up-for-grabs). Issues marked with this label haven't been assigned to anyone yet and we would love for you to work on them.
+Start looking through the [Issues](https://github.com/djangocon/2025.djangocon.eu/issues) and watch out for any issues with the green label [`up-for-grabs`](https://github.com/djangocon/2025.djangocon.eu/labels/up-for-grabs). Issues marked with this label haven't been assigned to anyone yet and we would love for you to work on them.
 
 ## Difficulty Levels
 
 Here's a quick guide to help you understand what the different difficulty labels mean that you will find while looking through the issues:
 
-[`difficulty: easy`](https://github.com/djangocon/2024.djangocon.eu/labels/difficulty%3A%20easy): Fixing this issue doesn't require a lot of time or programming knowledge. This would be a great issue for someone new to programming or open source to work on.
-[`difficulty: medium`](https://github.com/djangocon/2024.djangocon.eu/labels/difficulty%3A%20medium): This is an issue which requires more time or programming knowledge than a `difficulty: easy` issue but you don't have to be a programming expert to fix it.
-[`difficulty: hard`](https://github.com/djangocon/2024.djangocon.eu/labels/difficulty%3A%20hard): This issue probably requires some time or a good bit of programming knowledge and could be a challenge, but this shouldn't keep you from trying to submit a patch for it :wink:
+[`difficulty: easy`](https://github.com/djangocon/2025.djangocon.eu/labels/difficulty%3A%20easy): Fixing this issue doesn't require a lot of time or programming knowledge. This would be a great issue for someone new to programming or open source to work on.
+[`difficulty: medium`](https://github.com/djangocon/2025.djangocon.eu/labels/difficulty%3A%20medium): This is an issue which requires more time or programming knowledge than a `difficulty: easy` issue but you don't have to be a programming expert to fix it.
+[`difficulty: hard`](https://github.com/djangocon/2025.djangocon.eu/labels/difficulty%3A%20hard): This issue probably requires some time or a good bit of programming knowledge and could be a challenge, but this shouldn't keep you from trying to submit a patch for it :wink:
 
 ## Reporting bugs
 

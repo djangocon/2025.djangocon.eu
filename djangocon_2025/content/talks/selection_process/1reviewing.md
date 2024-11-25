@@ -9,4 +9,4 @@ Reviewers will be asked to review a set of submissions and submit a review (both
 
 Of course, we'll let you know regardless of the outcome of the review. We'll probably send out some of the acceptance emails before the rejection emails to allow accepted speakers to step back in case they cannot attend after all. Regardless of our decision, feel free to ping us for feedback, and we'll give you an overview of reviewer opinions!
 
-We value your feedback. If you have any questions or concerns or wish to volunteer for the review team, please contact [content@djangocon.eu](mailto:content@djangocon.eu).
+We value your feedback. If you have any questions or concerns or wish to volunteer for the review team, please contact <a href="mailto:content@djangocon.eu" class="pages-links">content@djangocon.eu</a>.

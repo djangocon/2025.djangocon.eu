@@ -3,7 +3,7 @@ layout: schedule_talx
 
 ### **Call For Participation report**
 
-We had a whopping total of **174** proposals from **138** submitters. Our content team worked extra hard to provide over **750** reviews, allowing for an average of **4+** reviews for submission. Kudos to all of them, you can check the team [here](https://2024.djangocon.eu/about/credits/).
+We had a whopping total of **174** proposals from **138** submitters. Our content team worked extra hard to provide over **750** reviews, allowing for an average of **4+** reviews for submission. Kudos to all of them, you can check the team [here](https://2025.djangocon.eu/about/credits/).
 
 #### Numbers breakout
 
@@ -17,7 +17,7 @@ Take a glance of the chart below
 
 <div id="question-data" class="d-none"
              data-states='[{&quot;options&quot;: 12, &quot;options__answer&quot;: &quot;Never attended&quot;, &quot;count&quot;: 56}, {&quot;options&quot;: 10, &quot;options__answer&quot;: &quot;Speaker&quot;, &quot;count&quot;: 44}, {&quot;options&quot;: 11, &quot;options__answer&quot;: &quot;Participant&quot;, &quot;count&quot;: 32}]'
-             data-url="/orga/event/djangocon-europe-2024/speakers/?&amp;question=91&amp;">
+             data-url="/orga/event/djangocon-europe-2025/speakers/?&amp;question=91&amp;">
 </div>
 
   <div id="question-stats" class="d-flex mt-4 pt-4">
@@ -77,7 +77,7 @@ Take a glance of the chart below
 <br>
 
 _**We are working on the schedule. Meanwhile, you can take a peek at the currently accepted and speaker confirmed talks**._
-[View Currently accepted and cofirmed talks here](https://pretalx.evolutio.pt/djangocon-europe-2024/featured/)
+[View Currently accepted and cofirmed talks here](https://pretalx.evolutio.pt/djangocon-europe-2025/featured/)
 
 <br>
 

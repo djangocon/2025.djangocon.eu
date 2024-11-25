@@ -1,6 +1,6 @@
 layout: simple
 
-<h1 style="padding-top:6rem;" class="cfp-title">Talk Schedule</h1>
+<h1 class="cfp-title">Talk Schedule</h1>
 
 ### Coming soon...
 
@@ -15,21 +15,21 @@ The conference will take place from 9AM to 6PM.
 
 ## Talks and Workshops Schedule
 
-<a href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/" target="_blank">View the schedule on Pretalx</a>
+<a href="https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/" target="_blank">View the schedule on Pretalx</a>
 
 <script
   type="text/javascript"
-  src="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/widget/v2.en.js"
+  src="https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/widget/v2.en.js"
 ></script>
 
-<pretalx-schedule event-url="https://pretalx.evolutio.pt/djangocon-europe-2024/" locale="en" format="grid" style="--pretalx-clr-primary: #8f3838"> </pretalx-schedule>
+<pretalx-schedule event-url="https://pretalx.evolutio.pt/djangocon-europe-2025/" locale="en" format="grid" style="--pretalx-clr-primary: #8f3838"> </pretalx-schedule>
 
 <noscript>
   <div class="pretalx-widget">
     <div class="pretalx-widget-info-message">
       JavaScript is disabled in your browser. To access our schedule without
       JavaScript, please
-      <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/" target="_blank">View the schedule on Pretalx</a>.
+      <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/" target="_blank">View the schedule on Pretalx</a>.
     </div>
   </div>
 </noscript> -->
