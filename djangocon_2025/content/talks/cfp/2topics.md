@@ -6,10 +6,10 @@ layout: simple
 - Improving Django and Python developers’ lives.
 - Pushing Django to its limits.
 - Fundamentals, in a modern light.
-- The Django and Python community, culture, history, past, present & future, the why the who and the what of it all.
+- The Django and Python community, culture, history, past, present & future, the why, the who, and the what of it all.
 - Security.
 - Whatever you deem appropriate – it's your conference, after all!
 
-You may think that your idea is not suited to DjangoCon Europe, or that you couldn't possibly present it well, or that others will do it better. **We want to prove you wrong**. You should consider reading <a href="https://web.archive.org/web/20190625135013/https://www.mxsasha.eu/blog/2015/03/11/why-you-should-speak" style="color:#97EB61;">Sasha's blog post</a> on why you should speak at DjangoCon Europe! This blog post still holds true 8 years later.
+You may think that your idea is not suited to DjangoCon Europe, that you couldn't possibly present it well, or that others will do it better. **We want to prove you wrong**. You should consider reading <a href="https://web.archive.org/web/20190625135013/https://www.mxsasha.eu/blog/2015/03/11/why-you-should-speak" style="color:#97EB61;">Sasha's blog post</a> on why you should speak at DjangoCon Europe! This blog post still holds true 8 years later.
 
 If you would like to ask a question, you are always welcome to write the content committee: <a href="mailto:content@djangocon.eu" style="color:#97EB61;">content@djangocon.eu</a>
