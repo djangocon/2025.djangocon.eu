@@ -19,8 +19,6 @@ If you've got half an idea or are still deciding in any way and want to chat, yo
 
 Please don't be shy; we want to hear from you!
 
-<a href="https://pretalx.evolutio.pt/djangocon-europe-2025/cfp" class="pages-links">DjangoCon Europe 2025, Dublin CFP</a>
-
 We'll see you in Dublin!
 
 If you have any questions, please do not hesitate to contact us at <a href="mailto:content@djangocon.eu" class="pages-links">content@djangocon.eu</a> Don't forget to follow us on Twitter <a href="https://twitter.com/djangoconeurope" class="pages-links">@DjangoCon Europe</a> for the latest up to date information!
