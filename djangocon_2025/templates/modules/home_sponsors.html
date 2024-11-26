@@ -6,50 +6,17 @@
       <h2 class="sponsors-title">SPONSORS</h2>
       <button class="view-all-btn">View all sponsors</button>
     </div>
-
     <div class="sponsors-grid">
-<!--       <p class="sponsors-categories">Platinum</p>
-      <div class="sponsor-row">
-
-      </div>
-
-    <p class="sponsors-categories">Gold</p>
-      <div class="sponsor-row">
-
-      </div>
-
-    <p class="sponsors-categories">Silver</p>
-      <div class="sponsor-row">
-
-    </div>
-      
-    <p class="sponsors-categories">Bronze</p>
-      <div class="sponsor-row">
-
-      </div>
-
-    <p class="sponsors-categories">Sponsor</p>
-      <div class="sponsor-row">
-
-      </div> -->
-      
-      <p class="sponsors-categories">Grants</p>
-      <div class="sponsor-row">
-      <a href="https://www.djangoproject.com/foundation/">
-        <img src="{% static 'images/sponsors/dsf.png' %}" class="sponsor large" alt="DSF Logo" />
-      </a>
-      </div>
-      
-      <p class="sponsors-categories">Organizer</p>
-      <div class="sponsor-row">
-        <a href="https://www.evolutio.pt/" target="_blank" class="sponsor-logo">
-          <img
-            src="{% static 'images/sponsors/evolutio.png' %}"
-            alt="Ad Evolutio"
-          />
-        </a>
-      </div>
-        <a type="button" class="view-all-btn-mobile" href="/sponsors/sponsorship/" target="_blank">View all sponsors</button>
+      {% for category, sponsors_list in sponsors.items %}
+        <p class="sponsors-categories">{{ category }}</p>
+        <div class="sponsor-row">
+          {% for sponsor in sponsors_list %}
+            <a href="{{ sponsor.url }}" target="_blank" class="sponsor-logo" >
+              <img src="{% static sponsor.logo %}" alt="{{ sponsor.name }}" {% if sponsor.filter %}style="filter: brightness(0) invert(1)" {% endif %}>
+            </a>
+          {% endfor %}
+        </div>
+      {% endfor %}
     </div>
   </div>
 </div>
