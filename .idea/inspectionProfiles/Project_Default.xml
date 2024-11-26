@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="11">
+          <list size="46">
             <item index="0" class="java.lang.String" itemvalue="django-ninja" />
             <item index="1" class="java.lang.String" itemvalue="instructor" />
             <item index="2" class="java.lang.String" itemvalue="python-dotenv" />
@@ -16,6 +16,41 @@
             <item index="8" class="java.lang.String" itemvalue="numpy" />
             <item index="9" class="java.lang.String" itemvalue="requests" />
             <item index="10" class="java.lang.String" itemvalue="jupyterlab" />
+            <item index="11" class="java.lang.String" itemvalue="django-environ" />
+            <item index="12" class="java.lang.String" itemvalue="sphinx-autobuild" />
+            <item index="13" class="java.lang.String" itemvalue="factory-boy" />
+            <item index="14" class="java.lang.String" itemvalue="crispy-bootstrap5" />
+            <item index="15" class="java.lang.String" itemvalue="mypy" />
+            <item index="16" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="17" class="java.lang.String" itemvalue="django-stubs" />
+            <item index="18" class="java.lang.String" itemvalue="pre-commit" />
+            <item index="19" class="java.lang.String" itemvalue="pylint-django" />
+            <item index="20" class="java.lang.String" itemvalue="python-slugify" />
+            <item index="21" class="java.lang.String" itemvalue="redis" />
+            <item index="22" class="java.lang.String" itemvalue="flake8" />
+            <item index="23" class="java.lang.String" itemvalue="django-extensions" />
+            <item index="24" class="java.lang.String" itemvalue="ipdb" />
+            <item index="25" class="java.lang.String" itemvalue="django-model-utils" />
+            <item index="26" class="java.lang.String" itemvalue="Markdown" />
+            <item index="27" class="java.lang.String" itemvalue="coverage" />
+            <item index="28" class="java.lang.String" itemvalue="watchfiles" />
+            <item index="29" class="java.lang.String" itemvalue="pytest-sugar" />
+            <item index="30" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="31" class="java.lang.String" itemvalue="djlint" />
+            <item index="32" class="java.lang.String" itemvalue="django-coverage-plugin" />
+            <item index="33" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="34" class="java.lang.String" itemvalue="pytest" />
+            <item index="35" class="java.lang.String" itemvalue="black" />
+            <item index="36" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="37" class="java.lang.String" itemvalue="django-debug-toolbar" />
+            <item index="38" class="java.lang.String" itemvalue="hiredis" />
+            <item index="39" class="java.lang.String" itemvalue="sphinx" />
+            <item index="40" class="java.lang.String" itemvalue="flake8-isort" />
+            <item index="41" class="java.lang.String" itemvalue="django" />
+            <item index="42" class="java.lang.String" itemvalue="psycopg" />
+            <item index="43" class="java.lang.String" itemvalue="argon2-cffi" />
+            <item index="44" class="java.lang.String" itemvalue="pylint-celery" />
+            <item index="45" class="java.lang.String" itemvalue="Pillow" />
           </list>
         </value>
       </option>

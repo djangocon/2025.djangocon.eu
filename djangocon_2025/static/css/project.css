@@ -4029,7 +4029,7 @@ object[type='application/pdf'] {
   display: flex;
   flex-direction: column;
   gap: 40px;
-  padding-left: 90px;
+  padding: 0 90px 0 90px;
 }
 
 @media (max-width: 990px) {

@@ -1,5 +1,9 @@
 type: dark-background
-layout: composed
+layout: simple
+title: Announcements
+
+We will publish event announcements here.
+Stay tuned and follow us on X (formerly known as Twitter): <a href="https://twitter.com/djangoconeurope" class="pages-links">@DjangoConEurope</a>!
 <!--
 section: 7 December 2023
 
@@ -40,7 +44,7 @@ Your location before and during the event is not significant, since it will be h
 
 We expect new challenges but pledge our hearts and minds to do the best DjangoCon Europe we can, never giving up under these strenuous conditions. Please consider volunteering and join us, we need you!
 
-We hope we'll see you all at DjangoCon Europe 2025, and don't forget to follow us [@DjangoConEurope](https://twitter.com/djangoconeurope) on Twitter, and also join our dedicated [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg) channel.
+We hope we'll see you all at DjangoCon Europe 2025, and don't forget to follow us [@DjangoConEurope](https://twitter.com/djangoconeurope) on X, and also join our dedicated [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg) channel.
 
 Hoping for the best,
 The DjangoCon Europe 2025 Organisers
