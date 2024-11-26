@@ -902,9 +902,8 @@ body {
   font: normal normal 700 2.375rem/2.75rem Montserrat;
 }
 
-.bottom-line {
-  border-bottom: 1px solid rgba(127, 52, 46, 0.3);
-  /*max-width: 71.5rem;*/
+.even-pages {
+  background: rgba(0, 26, 1, 255);
 }
 
 /* .header-margin {
@@ -4067,7 +4066,6 @@ object[type='application/pdf'] {
 .sponsor-logo img {
   max-height: 40px;
   object-fit: contain;
-  filter: brightness(0) invert(1);
 }
 
 @media (max-width: 990px) {

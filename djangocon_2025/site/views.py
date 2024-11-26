@@ -1,7 +1,5 @@
 from os import walk
-
 from django.shortcuts import render
-
 from config.settings.base import APPS_DIR
 
 
@@ -25,6 +23,26 @@ def default_view(request, menu="home", submenu=None):
         ctx["files"].append(
             f"{APPS_DIR.__str__()}/content/sponsors/sponsors/sponsors.md"
         )
+
+        sponsors = {
+            'Platinum': [],
+            'Gold': [],
+            'Silver': [],
+            'Bronze': [],
+            'Sponsor': [],
+            'Grants': [{'name': 'Django Software Foundation',
+                        'url': 'https://www.djangoproject.com/foundation/',
+                        'logo': 'images/sponsors/dsf.png',
+                        'filter': False}],
+            'Organizer': [
+                {'name': 'Ad Evolutio', 'url': 'https://www.evolutio.pt/',
+                 'logo': 'images/sponsors/evolutio.png', 'filter': True}
+            ],
+        }
+
+        ctx["sponsors"] = {category: sponsors_list for category, sponsors_list in
+                           sponsors.items() if sponsors_list}
+
     elif len(files) == 0:
         page += "404"
     else:
