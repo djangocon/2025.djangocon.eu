@@ -5,7 +5,7 @@ We have made a large sponsorship menu to invite all to contribute and to give yo
 
 Please see the detailed description and options in the sponsorships brochure.
 
-[<button class="hero-btn">Discover this Sponsorship Brochure (PDF)</button>](/static/docs/djc-sponsorship-brochure.pdf){:target="\_blank"}
+[<button class="hero-btn">Sponsorship Brochure (PDF)</button>](/static/docs/djc-sponsorship-brochure.pdf){:target="\_blank"}
 
 The following table highlights the main sponsor levels.
 
