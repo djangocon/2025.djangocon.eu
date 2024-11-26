@@ -2539,6 +2539,7 @@ object[type='application/pdf'] {
 }
 
 .headtext {
+  color: #97eb61;
   font-weight: bold;
   font-size: 20px;
 }
@@ -2546,7 +2547,7 @@ object[type='application/pdf'] {
 .mainname {
   font-size: 40px;
   font-weight: bold;
-  color: #863b35;
+  color: #97eb61;
 }
 
 @media (max-width: 768px) {
@@ -2567,7 +2568,7 @@ object[type='application/pdf'] {
   .mainname {
     font-size: 40px;
     font-weight: bold;
-    color: #863b35;
+    color: #97eb61;
     text-align: center;
   }
 
@@ -2597,7 +2598,7 @@ object[type='application/pdf'] {
     font-size: 24px;
     /* added font size */
     font-weight: bold;
-    color: #863b35;
+    color: #97eb61;
     text-align: center;
   }
 

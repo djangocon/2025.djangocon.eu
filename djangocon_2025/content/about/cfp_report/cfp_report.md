@@ -3,7 +3,7 @@ layout: schedule_talx
 
 ### **Call For Participation report**
 
-We had a whopping total of **174** proposals from **138** submitters. Our content team worked extra hard to provide over **750** reviews, allowing for an average of **4+** reviews for submission. Kudos to all of them, you can check the team [here](https://2025.djangocon.eu/about/credits/).
+We had a whopping total of **174** proposals from **138** submitters. Our content team worked extra hard to provide over **750** reviews, allowing for an average of **4+** reviews for submission. Kudos to all of them, you can check the team [here](https://2024.djangocon.eu/about/credits/).
 
 #### Numbers breakout
 
