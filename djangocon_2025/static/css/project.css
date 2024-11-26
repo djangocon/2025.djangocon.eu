@@ -3778,6 +3778,12 @@ object[type='application/pdf'] {
 .date {
   color: #efedd0;
   font-weight: 600;
+
+}
+
+.important-dates-link {
+  text-decoration: underline;
+  text-decoration-color: white;
 }
 
 @media (max-width: 768px) {
