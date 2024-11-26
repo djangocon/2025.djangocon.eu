@@ -28,4 +28,4 @@ Our program prioritises anyone who is part of an under-represented or marginaliz
 - people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
 - people living with or recovering from substance abuse
 
-**The Grant Application is now open. The deadline for submitting applications is April 15th, at 23:59 UTC**. We aim to inform applicants of the results within a few days following the closure of the application window. Please be aware that you must apply before the deadline if you need a grant. Additionally, speakers are automatically entitled to receive a ticket.
+We aim to inform applicants of the results within a few days of the application window closing. Please be aware that you must apply before the deadline for a grant. Additionally, speakers are automatically entitled to receive a ticket.
