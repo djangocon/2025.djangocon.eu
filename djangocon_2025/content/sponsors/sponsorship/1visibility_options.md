@@ -4,16 +4,16 @@ layout: simple
 We have made a large sponsorship menu to invite all to contribute and to give you the opportunity to customise your support.
 
 Please see the detailed description and options in the sponsorships brochure.
-# Coming soon
-<!-- [<button class="btn">Discover this Sponsorship Brochure (PDF)</button>](/static/docs/djc-sponsorship-brochure.pdf){:target="\_blank"} -->
+
+[<button class="btn">Discover this Sponsorship Brochure (PDF)</button>](/static/docs/djc-sponsorship-brochure.pdf){:target="\_blank"}
 
 The following table highlights the main sponsor levels.
 
 | Levels       | High-level Description                         | Included Tickets | Price\*  |
 | ------------ | ---------------------------------------------- | ---------------- | -------- |
 | **Bronze**   | A great presence of your logo                  | -                | € 1.000  |
-| **Silver**   | Extra presence (inc. roll-up)                  | 1                | € 2.500  |
-| **Gold**     | Special visibility (inc. booth at the _foyer_) | 3                | € 6.000  |
+| **Silver**   | Extra presence (inc. roll-up)                  | 1                | € 3.000  |
+| **Gold**     | Special visibility (inc. booth at the _foyer_) | 3                | € 7.000  |
 | **Platinum** | Extraordinary visibility at the event          | 5                | € 10.000 |
 | **Diamond**  | To be seen **EVERYWHERE**                      | 8                | € 15.000 |
 
