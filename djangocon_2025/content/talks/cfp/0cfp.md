@@ -27,4 +27,4 @@ If you think you have something great to discuss, submit your idea! If you are u
 
 CfP powered by:
 
-<!-- pretalx{:class='hotel'}{:target="_blank"} -->
+<a href="https://pretalx.com/p/about/" target="blank"><img src="/static/images/other/pretalx.svg" alt="Pretalx logo" style="width: 150px;"></a>
