@@ -21,7 +21,7 @@ Please don't be shy; we want to hear from you!
 
 We'll see you in Dublin!
 
-If you have any questions, please do not hesitate to contact us at <a href="mailto:content@djangocon.eu" class="pages-links">content@djangocon.eu</a> Don't forget to follow us on Twitter <a href="https://twitter.com/djangoconeurope" class="pages-links">@DjangoCon Europe</a> for the latest up to date information!
+If you have any questions, please do not hesitate to contact us at <a href="mailto:content@djangocon.eu" class="pages-links">content@djangocon.eu</a> Don't forget to follow us on X <a href="https://twitter.com/djangoconeurope" class="pages-links">@DjangoCon Europe</a> for the latest up to date information!
 
 If you think you have something great to discuss, submit your idea! If you are unsure, talk it over with somebody, or go to <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-1gjg5lqkz-qVQkNnhjztXVme7TQ7ziQA" class="pages-links">Slack</a> to find previous speakers and participants to discuss your idea with. **When in doubt, submit your talk 😉!**
 
