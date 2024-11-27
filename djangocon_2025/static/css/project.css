@@ -66,6 +66,10 @@ body {
   padding: 0;
 }
 
+.w-300 {
+  width: 300px!important;
+}
+
 .pages-links {
   color: #97EB61 !important;
 }
