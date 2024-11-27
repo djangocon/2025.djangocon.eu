@@ -4092,7 +4092,7 @@ object[type='application/pdf'] {
 }
 
 .sponsor-logo img {
-  max-height: 40px;
+  max-height: 50px;
   object-fit: contain;
 }
 
