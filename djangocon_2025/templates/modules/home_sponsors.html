@@ -4,19 +4,26 @@
   <div class="sponsors-container">
     <div class="sponsors-header">
       <h2 class="sponsors-title">SPONSORS</h2>
-      <button class="view-all-btn">View all sponsors</button>
+      <a href="../sponsors/sponsors">
+        <button class="view-all-btn">View all sponsors</button>
+      </a>
     </div>
-    <div class="sponsors-grid">
+    <div class="sponsors-grid-1">
       {% for category, sponsors_list in sponsors.items %}
         <p class="sponsors-categories">{{ category }}</p>
         <div class="sponsor-row">
           {% for sponsor in sponsors_list %}
-            <a href="{{ sponsor.url }}" target="_blank" class="sponsor-logo" >
-              <img src="{% static sponsor.logo %}" alt="{{ sponsor.name }}" {% if sponsor.filter %}style="filter: brightness(0) invert(1)" {% endif %}>
+            <a href="{{ sponsor.url }}" target="_blank" class="sponsor-logo">
+              <img src="{% static sponsor.logo %}" alt="{{ sponsor.name }}"
+                   {% if sponsor.filter %}style="filter: brightness(0) invert(1)" {% endif %}>
             </a>
           {% endfor %}
         </div>
       {% endfor %}
     </div>
+    <a href="../sponsors/sponsors" class="text-decoration-none">
+      <button class="view-all-btn-mobile">View all sponsors</button>
+    </a>
+
   </div>
 </div>
