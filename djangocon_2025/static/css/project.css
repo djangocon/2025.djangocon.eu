@@ -67,7 +67,11 @@ body {
 }
 
 .w-300 {
-  width: 300px!important;
+  width: 300px !important;
+}
+
+.text-decoration-none {
+  text-decoration: none;
 }
 
 .pages-links {
@@ -4022,8 +4026,9 @@ object[type='application/pdf'] {
   font-size: 14px;
   transition: all 0.3s ease;
   width: 50%;
-  margin: 0 auto;
+  margin: 50px auto 0;
   display: none;
+  text-decoration: none;
 }
 
 @media (max-width: 990px) {
@@ -4043,11 +4048,23 @@ object[type='application/pdf'] {
   padding: 0 90px 0 90px;
 }
 
+.sponsors-grid-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 0 90px 0 90px;
+
+}
+
 @media (max-width: 990px) {
   .sponsors-grid {
     text-align: center;
     padding-left: 0;
+  }
 
+  .sponsors-grid-1 {
+    text-align: center;
+    padding: 0;
   }
 }
 
