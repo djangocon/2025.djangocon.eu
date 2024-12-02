@@ -18,7 +18,8 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 <h1 style="font-size:25px" class="cfp-title"><u>TALBOT HOTEL STILLORGAN</u></h1>
 <!-- location  -->
 
-Discover the vibrant spirit of DjangoCon Europe 2025 at **Talbot Hotel Stillorgan**, nestled in the heart of Dublin. Just minutes from the bustling **Silicon Docks** tech hub and a short walk from the city center, this venue offers the perfect blend of convenience and charm. With its proximity to the river and Dublin's iconic landmarks, Talbot Hotel Stillorgan sets the stage for an unforgettable conference experience.
+Discover the vibrant spirit of DjangoCon Europe 2025 at **Talbot Hotel Stillorgan**, nestled in the heart of Dublin. Just minutes from the bustling **Silicon Docks**Located in Stillorgan, approximately 7km from Dublin's city center, this venue combines modern amenities with Irish hospitality. The Talbot Hotel Stillorgan is well-connected to the city via regular public transport and offers easy access to both Dublin's business district and cultural attractions. With excellent conference facilities and comfortable accommodations, it provides an ideal setting for DjangoCon Europe 2025.
+
 <em>
   Talbot Hotel Stillorgan,
   Stillorgan Rd, 
@@ -47,7 +48,7 @@ You can find detailed information on how to get to The Talbot Hotel Stillorgan <
 <h1 style="font-size:25px" class="cfp-title">By Bus</h1>
 
 - From Dublin Airport, the <a href="https://www.aircoach.ie/" class="pages-links">Aircoach</a>. 702 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection.
-- <a href="https://www.dublinairport.com/to-from-the-airport/by-bus/dublin-buses" class="pages-links">Dublin Express</a>.offers a direct service from Dublin Airport to Custom House, a short walk from the DjangoCon Europe 2025 venue (Talbot Hotel Stillorgan). The price typically ranges from €10 to €15, and the journey takes around 30 minutes, depending on traffic.
+- <a href="https://www.dublinairport.com/to-from-the-airport/by-bus/dublin-buses" class="pages-links">Dublin Express</a>.offers a direct service from Dublin Airport to Stillorgan, where the DjangoCon Europe 2025 venue (Talbot Hotel Stillorgan) is located. The hotel is situated approximately 7km from Dublin city center. The Aircoach journey takes around 30-40 minutes and costs between €10 to €15, depending on traffic conditions. The hotel is conveniently located on the N11, one of Dublin's major transport routes, with regular bus services connecting to the city center.
 
 
 <!-- Taxi -->
