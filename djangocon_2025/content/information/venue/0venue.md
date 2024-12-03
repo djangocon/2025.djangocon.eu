@@ -18,7 +18,7 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 <h1 style="font-size:25px" class="cfp-title"><u>TALBOT HOTEL STILLORGAN</u></h1>
 <!-- location  -->
 
-Discover the vibrant spirit of DjangoCon Europe 2025 at **Talbot Hotel Stillorgan**, nestled in the heart of Dublin. Just minutes from the bustling **Silicon Docks**Located in Stillorgan, approximately 7km from Dublin's city center, this venue combines modern amenities with Irish hospitality. The Talbot Hotel Stillorgan is well-connected to the city via regular public transport and offers easy access to both Dublin's business district and cultural attractions. With excellent conference facilities and comfortable accommodations, it provides an ideal setting for DjangoCon Europe 2025.
+Discover the vibrant spirit of DjangoCon Europe 2025 at **Talbot Hotel Stillorgan**. Located in Stillorgan, approximately 7km from Dublin's city center and with good transport links to the Silicon Docks business district, this venue combines modern amenities with Irish hospitality. The Talbot Hotel Stillorgan is well-connected to the city via regular public transport and offers convenient access to both Dublin's business areas and cultural attractions. With excellent conference facilities and comfortable accommodations, it provides an ideal setting for DjangoCon Europe 2025.
 
 <em>
   Talbot Hotel Stillorgan,
