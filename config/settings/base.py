@@ -41,16 +41,16 @@ LOCALE_PATHS = [str(BASE_DIR / "locale")]
 # https://docs.djangoproject.com/en/dev/ref/settings/#databases
 # No database used
 
-# DATABASES = {  
+DATABASES = {  
 
-#    'default': { 
+   'default': { 
 
-#        'ENGINE': 'django.db.backends.sqlite3', 
+       'ENGINE': 'django.db.backends.sqlite3', 
 
-#        'NAME': BASE_DIR / 'db.sqlite3'
+       'NAME': BASE_DIR / 'db.sqlite3'
 
-#    } 
-#  } 
+   } 
+ } 
 
 
 # DATABASES = {"default": env.db("DATABASE_URL")}
