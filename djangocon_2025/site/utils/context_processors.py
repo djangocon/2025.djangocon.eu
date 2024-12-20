@@ -17,6 +17,7 @@ def links(request):
                     "Venue": "/information/venue/",
                     "Grants": "/information/grants/",
                     "Sprints": "/information/sprints/",
+                    "Mentorship Program": "/information/mentorship/",
                     # "Django Girls": "/information/django_girls/",
                     "Hospitality": "/information/hospitality/",
                     "Social Events": "/information/social_events/",
