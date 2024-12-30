@@ -1,3 +1,7 @@
+layout: simple
+
+<h1 class="cfp-title">Visa Guide</h1>
+
 # Securing a Visa to Ireland for DjangoCon Europe in Dublin
 
 If you're planning to attend DjangoCon Europe in **Dublin, Ireland**, it's important to understand the visa requirements and application process based on your nationality. Here's a comprehensive guide for both EU and non-EU residents.
