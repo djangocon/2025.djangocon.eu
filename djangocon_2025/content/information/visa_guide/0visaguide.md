@@ -28,7 +28,7 @@ Even though a visa is not required, ensure you carry:
 &nbsp;
 
 #### Do You Need a Visa?
-Non-EU residents will typically need a visa to travel to Ireland. However, certain nationalities may be exempt. Check the [Irish Naturalisation and Immigration Service (INIS) website](https://www.irishimmigration.ie/) for the most up-to-date information.
+Non-EU residents will typically need a visa to travel to Ireland. However, certain nationalities may be exempt. Check the <a href="https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland/" class="pages-links">Visa requirements for entering Ireland</a> page for the most up-to-date information.
 
 ##### Types of Visas
 For DjangoCon Europe, you’ll likely need a **short-stay visa (C)** for conferences or business visits.
@@ -40,12 +40,12 @@ For DjangoCon Europe, you’ll likely need a **short-stay visa (C)** for confere
 &nbsp;
 
 1. **Determine Your Visa Type**
-   - Visit the [INIS visa information page](https://www.irishimmigration.ie/).
+   - Visit the <a href="https://www.irishimmigration.ie/" class="pages-links">INIS visa information page</a>.
    - Select the **short-stay conference/business visa**.
 
 2. **Prepare Your Documents**
    Gather the following required documents:
-   - **Visa application form**: Complete the application online at the [AVATS website](https://www.visas.inis.gov.ie/AVATS/).
+   - **Visa application form**: Complete the application online at the <a href="https://www.visas.inis.gov.ie/AVATS/" class="pages-links">AVATS website</a>.
    - **Passport**: Must be valid for at least 6 months after your intended departure from Ireland.
    - **Photograph**: Passport-sized photo meeting Irish visa specifications.
    - **Proof of purpose**: DjangoCon Europe invitation or ticket confirmation.
@@ -73,12 +73,16 @@ For DjangoCon Europe, you’ll likely need a **short-stay visa (C)** for confere
 - Double-check the validity of your passport and supporting documents.
 - Plan your travel and accommodation early, as the conference period may coincide with peak tourist season in Dublin.
 
+With proper preparation, securing your visa will be a smooth process. We look forward to seeing you at DjangoCon Europe in **Dublin, Ireland**! 🎉
+
 ---
 
 ### **Additional Notes for All Attendees**
 
 - **COVID-19 Requirements**: Check Ireland's latest health and travel advisories.
-- **Visa Support Letter**: DjangoCon Europe will provide an official invitation letter upon request and with a valid conference ticket.
+- **Visa Support Letter**:  To facilitate your travel arrangements and visa application process, we are pleased to offer official invitation letters to international attendees. This personalized letter aims to assist you in obtaining the necessary approvals by providing proof of your intent to attend our conference. Please note that this letter does not guarantee visa issuance but serves as a supporting document for your application. To request your invitation letter, simply fill out the required form with your details. Let's make your journey to DjangoCon Europe as smooth as possible!
+You can also <a href="https://docs.google.com/forms/d/e/1FAIpQLScAgxjuxAgOqMcpMc1pZt2YZKvDITrcgDRPqUDCnJZ5-Uc8dw/viewform?usp=preview" class="pages-links">click here</a> to fill the form.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScAgxjuxAgOqMcpMc1pZt2YZKvDITrcgDRPqUDCnJZ5-Uc8dw/viewform?embedded=true" width="640" height="2188" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
-With proper preparation, securing your visa will be a smooth process. We look forward to seeing you at DjangoCon Europe in **Dublin, Ireland**! 🎉
