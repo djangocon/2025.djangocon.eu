@@ -15,7 +15,7 @@ def links(request):
                 "submenu": {
                     "Dublin": "/information/dublin/",
                     "Venue": "/information/venue/",
-                    "Visa": "/information/visa/",
+                    "Visa": "/information/visa_guide/",
                     "Grants": "/information/grants/",
                     "Sprints": "/information/sprints/",
                     "Mentorship Program": "/information/mentorship/",
