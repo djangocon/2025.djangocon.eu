@@ -13,6 +13,6 @@ With our limited funds, we can't promise you will receive a grant, but if you're
 
 If you have questions, you can write to <a href="mailto:2025@djangocon.eu" class="pages-links">2025@djangocon.eu</a>.
 
-**The Grant Application will open at December 15th and close on January 15th at 23:59 UTC.**
+**The Grant Application will open on January 2nd and close on January 19th at 23:59 UTC.**
 <be>
 <!-- <a href="" class="hero-btn"style="text-decoration:none;color:white">Apply for Grant</a> -->
