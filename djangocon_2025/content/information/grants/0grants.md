@@ -1,8 +1,10 @@
 layout: simple
 
-<h1 class="cfp-title">Opportunity Grants - Opening soon...</h1>
+<h1 class="cfp-title">Opportunity Grants - Now Accepting Applications </h1>
 
 **DjangoCon Europe 2025 offers grants so that those who might otherwise not be able to attend won't hesitate to participate.** Some expenses for the conference attendance (which could include travel, hotel, registration, etc) will be covered for opportunity grant recipients.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScKldrk0umXZUR2z5XB-xKU3cOk4Z4nCIYrutOxPH1Tv590_Q/viewform?usp=dialog" class="hero-btn" style="text-decoration:none; color: white;">Apply here</a>
 
 We actively encourage you to apply for an opportunity grant. While we wish we could give grants to everyone who applies, we do not have the funds to do that. Our goal is to maximize the impact our grant program has, within the limited funds we have.
 
@@ -28,4 +30,4 @@ Our program prioritises anyone who is part of an under-represented or marginaliz
 - people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
 - people living with or recovering from substance abuse
 
-We aim to inform applicants of the results within a few days of the application window closing. Please be aware that you must apply before the deadline for a grant. Additionally, speakers are automatically entitled to receive a ticket.
+We aim to inform applicants of the results within a few days of the application window closing. Please be aware that you must apply before the deadline for a grant. **Opportunity Grant Applications will close on January 19th at 23:59 UTC.**  Additionally, speakers are automatically entitled to receive a ticket.
