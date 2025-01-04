@@ -6,29 +6,29 @@
         <div class="news-container">
           <div class="left-side">
             <div class="title-container">
-              <img
+              {% comment %} <img
                 src="{% static 'images/other/latest-news.png' %}"
                 class="news_logo img-fluid"
                 alt="latest news"
-              />
+              /> {% endcomment %}
+              <h1 class="news-title">Latest News</h1>
             </div>
-            {% comment %}
-            <p class="mb-0">
+            <p class="news-description">
               <a
-                href="/sponsors/jobs/"
-                style="text-decoration: none; color: #005e83"
-              >
-                Exciting news!📰 Our sponsors for DjangoCon Europe 2025 are now
-                hiring! This is a unique opportunity to work with some of the
-                leading companies in the industry. Don't miss out - explore
-                these opportunities now!🚀
+                href="/information/grants/"
+                style="text-decoration: none; color: #97eb61"
+                >
+                Exciting news! 🎉 The Grant Application for DjangoCon Europe 2025 
+                is now open! Don't miss this opportunity to be part of our 
+                community. Apply now and join us in Accra! 🌟
               </a>
             </p>
-            <small class="published" style="color: black"
-              >Published: 21 May. 2025</small
+            <small class="published py-5" style="color: #efedd0; margin-top: 10px"
+              >Published: 4th January. 2025</small
             >
+            <em><h6 class="news-subtitle">Stay up to date with the latest news</h6></em>
+
           </div>
-          {% endcomment %}
         </div>
       </div>
     </div>
