@@ -2334,6 +2334,23 @@ object[type='application/pdf'] {
   margin: 0 auto;
 }
 
+.latest_news_content p a {
+  display: inline-block;
+  transition: all 0.3s ease;
+  color: #333;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.latest_news_content p a:hover {
+  transform: scale(1.02);
+  color: #97eb61;
+  background-color: rgba(0, 0, 0, 0.02);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+
 .latest-news-page .news_logo {
   max-width: 30%;
   /* Set your desired max-width for larger screens */
@@ -4233,3 +4250,19 @@ object[type='application/pdf'] {
   color: #97eb61;
   margin-bottom: 1rem;
 }
+
+
+/* home news page */
+.news-title{
+  font-family: 'Lansdowne Demo', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.2;
+  color: #97eb61;
+  font-weight: 700;
+  margin-bottom: 40px;
+  
+  text-align: left;
+  /* Aligned to the left */
+}
+
+.news-description.hover{}

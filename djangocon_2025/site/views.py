@@ -23,6 +23,12 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/ambient.svg",
                 "filter": True,
             },
+            {
+                "name": "Caktus Group",
+                "url": "https://www.caktusgroup.com/",
+                "logo": "images/sponsors/caktus-logo.png",
+                "filter": True,
+            },
         ],
         "Bronze": [],
         "Sponsor": [],

@@ -4,7 +4,7 @@ layout: simple
 
 **DjangoCon Europe 2025 offers grants so that those who might otherwise not be able to attend won't hesitate to participate.** Some expenses for the conference attendance (which could include travel, hotel, registration, etc) will be covered for opportunity grant recipients.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScKldrk0umXZUR2z5XB-xKU3cOk4Z4nCIYrutOxPH1Tv590_Q/viewform?usp=dialog" class="hero-btn" style="text-decoration:none; color: white;">Apply here</a>
+<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLScKldrk0umXZUR2z5XB-xKU3cOk4Z4nCIYrutOxPH1Tv590_Q/viewform?usp=dialog" class="hero-btn" style="text-decoration:none; color: white;">Apply here</a> -->
 
 We actively encourage you to apply for an opportunity grant. While we wish we could give grants to everyone who applies, we do not have the funds to do that. Our goal is to maximize the impact our grant program has, within the limited funds we have.
 
