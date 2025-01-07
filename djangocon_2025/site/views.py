@@ -30,7 +30,16 @@ def default_view(request, menu="home", submenu=None):
                 "filter": True,
             },
         ],
-        "Bronze": [],
+        "Bronze": [
+            {
+                "name": "HackSoft",
+                "url": "https://www.hacksoft.io/",
+                "logo": "images/sponsors/hacksoft-logo.png",
+                "filter": True,
+            
+            }
+                
+            ],
         "Sponsor": [],
         "Grants": [
             {
