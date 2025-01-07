@@ -11,10 +11,10 @@ Lastly, we know that some of you reading this will need clarification on whether
 
 With our limited funds, we can't promise you will receive a grant, but if you're not sure, **we encourage you to apply**. If you're uncomfortable with other people knowing you received a grant, you don't have to tell them—our policy is to never publicly identify grant applicants or recipients without their explicit permission.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScKldrk0umXZUR2z5XB-xKU3cOk4Z4nCIYrutOxPH1Tv590_Q/viewform?usp=dialog" class="hero-btn" style="text-decoration:none; color: white;">Apply here</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScKldrk0umXZUR2z5XB-xKU3cOk4Z4nCIYrutOxPH1Tv590_Q/viewform?usp=dialog" class="hero-btn" style="text-decoration:none; color: white;">Apply here</a>
 
 If you have questions, you can write to <a href="mailto:2025@djangocon.eu" class="pages-links">2025@djangocon.eu</a>.
 
-**The Grant Application will close on January 19th at 23:59 UTC.**
+<h5 style="color: tomato; font-weight: 600;">The Grant Application will close on January 19th at 23:59 UTC.</h5>
 <be>
 <!-- <a href="" class="hero-btn"style="text-decoration:none;color:white">Apply for Grant</a> -->
