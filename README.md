@@ -41,7 +41,7 @@ But please note that currently, `manage.py migrate` doesn't work, you need to us
 After setting up the Django project,
 point your local settings to the pre-populated SQLite database by appending the following to `config/settings/local.py`:
 
-```
+```python
 import os
 
 # Database
