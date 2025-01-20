@@ -29,8 +29,23 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/caktus-logo.png",
                 "filter": True,
             },
+            {
+                "name": "Monit ",
+                "url": "https://monitdata.com/?lang=en",
+                "logo": "images/sponsors/monit.png",
+                "filter": True,
+            },
         ],
-        "Bronze": [],
+        "Bronze": [
+            {
+                "name": "HackSoft",
+                "url": "https://www.hacksoft.io/",
+                "logo": "images/sponsors/hacksoft-logo.png",
+                "filter": True,
+            
+            }
+                
+            ],
         "Sponsor": [],
         "Grants": [
             {
