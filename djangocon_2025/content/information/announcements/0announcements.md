@@ -2,8 +2,17 @@ type: dark-background
 layout: simple
 title: Announcements
 
-We will publish event announcements here.
+---
+> Exciting news! 🎉 The grant application for DjangoCon Europe 2025 
+is now open! Don't miss this opportunity to be part of our 
+community. Apply now and join us in Dublin! 🌟
+<br>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScKldrk0umXZUR2z5XB-xKU3cOk4Z4nCIYrutOxPH1Tv590_Q/viewform?usp=dialog" class="hero-btn" style="font-weight:600; color: green;">Apply here</a>
+<br>
+_Published: 4th January 2025_
+---
 Stay tuned and follow us on X (formerly known as Twitter): <a href="https://twitter.com/djangoconeurope" class="pages-links">@DjangoConEurope</a>!
+
 <!--
 section: 7 December 2023
 

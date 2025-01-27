@@ -1225,6 +1225,11 @@ body {
   }
 }
 
+.nav-link:focus, .navbar-brand:focus, .sub-menu-link:focus {
+  outline-color: #efedd0;
+}
+
+
 .header .nav-link-lg {
   display: inline-block;
   padding: 0 !important;
@@ -3474,6 +3479,11 @@ object[type='application/pdf'] {
 .dropdown-item:active {
   background-color: rgba(151, 235, 97, 0.2);
   color: #97eb61 !important;
+}
+
+.dropdown-item:focus {
+  background-color: rgba(151, 235, 97, 0.2);
+  outline-color: #efedd0;
 }
 
 /* Dropdown menu positioning */

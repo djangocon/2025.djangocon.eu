@@ -336,3 +336,6 @@ vendors.js
 .env
 .envs/*
 !.envs/.local/
+scripts/
+scripts/*.pyc
+2025djc-virtual/

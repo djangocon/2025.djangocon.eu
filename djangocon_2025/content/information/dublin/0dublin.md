@@ -32,13 +32,12 @@ Dublin city centre is accessible from the airport by bus and taxi. The journey f
 
 ---
 
-
 ### **Car Rental at Dublin Airport**  
 - Multiple international and national car rental companies are located in the arrivals hall.
 - Car rental in Ireland is relatively expensive; book in advance for better rates.
 - **Driving Tips**:
   - Drive on the **left**.
-  - City travel from the airport takes ~45 minutes, but avoid rush hours (7:00–9:00, 16:00–19:00).
+  - City travel from the airport takes ~45 minutes, but avoid rush hours (7:00–10:00, 16:00–19:00).
   - Use the **Port Tunnel** and **East Link** (both tolled) to bypass city traffic, especially for Southside destinations.
 <a href="https://www.dublin.info/car-rental/" class="pages-links">Car Rental</a>
 
@@ -54,10 +53,6 @@ Dublin city centre is accessible from the airport by bus and taxi. The journey f
 - **Travel Tip**: Catamarans offer faster crossings but may be canceled in rough seas. Confirm travel times on the day of departure.
 
 ---
-<div class="dublin-tips">
-<h3>General Tip</h3>
-    The <b>East Link toll bridge</b> connects Dublin Port and Dun Laoghaire, avoiding city traffic for car travelers.
-</div>
 
 ### **Dublin By Train**
 - **North-South Railway Line**: Connects Dublin with Cork (south) and Belfast (north).
