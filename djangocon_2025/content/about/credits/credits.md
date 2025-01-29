@@ -31,5 +31,10 @@ This list of individuals is still growing. Nonetheless, these are our sincerest 
 - Telmo Guerra
 - Teri Eyenike
 - Thibaud Colas
-
+- Sunday Ajayi
+- Nana Adjoa Anim
+- Arafat Olayiwola
+- Abdul Muizz Ikumapayi
+- Daniel Darko
+- Vicky Twomey-Lee
   -->
