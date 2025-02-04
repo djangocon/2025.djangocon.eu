@@ -37,4 +37,5 @@ This list of individuals is still growing. Nonetheless, these are our sincerest 
 - Abdul Muizz Ikumapayi
 - Daniel Darko
 - Vicky Twomey-Lee
+- Mayokun Adeoti
   -->
