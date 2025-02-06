@@ -8,7 +8,7 @@ layout: simple
 - **Lightning Talks** - TBA 
 
 
-<h4 style="color: #97eb61">Checkout our Schedulted Talk</h4>
+<h4 style="color: #97eb61">Checkout our Scheduled Talk</h4>
 
 [Check Featured Talks here](https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/){: style="color: #efedd0;"}
 
