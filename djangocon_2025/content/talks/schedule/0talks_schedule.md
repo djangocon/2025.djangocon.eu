@@ -8,19 +8,19 @@ layout: simple
 - **Lightning Talks** - TBA 
 
 
-<h4 style="color: #97eb61">Checkout our Featured Talks</h4>
+<h4 style="color: #97eb61">Checkout our Scheduled Talk</h4>
 
-[Check Featured Talks here](https://pretalx.evolutio.pt/djangocon-europe-2025/featured/){: style="color: #efedd0;"}
+[Check Featured Talks here](https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/){: style="color: #efedd0;"}
 
 
-<!-- <div id="pretalx-widget-container" style="margin-top: 20px;">
+<div id="pretalx-widget-container" style="margin-top: 20px;">
   <script
     type="text/javascript"
-    src="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/widget/v2.en.js"
+    src="https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/widget/v2.en.js"
   ></script>
 
   <pretalx-schedule
-    event-url="https://pretalx.evolutio.pt/djangocon-europe-2024/"
+    event-url="https://pretalx.evolutio.pt/djangocon-europe-2025/"
     locale="en"
     format="grid"
     style="--pretalx-clr-primary: #36bc5b; --pretalx-clr-background: #  --light-green: #97eb61; --pretalx-clr-text: #002400; width: 100%; max-width: 100%;"
@@ -32,7 +32,7 @@ layout: simple
       <div class="pretalx-widget-info-message">
         JavaScript is disabled in your browser. To access our schedule without
         JavaScript, please
-        <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/" target="_blank">View the schedule on Pretalx</a>.
+        <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/" target="_blank">View the schedule on Pretalx</a>.
       </div>
     </div>
   </noscript>
@@ -46,14 +46,14 @@ layout: simple
     box-sizing: border-box;
     border: 1px solid #ddd;
     border-radius: 8px;
-    background-color: #f9f9f9;
+    background-color: #EFEDD0;
 }
 .pretalx-widget {
     font-family: Arial, sans-serif;
     color: #333;
 }
 .pretalx-widget-info-message {
-    background-color: #ffefef;
+    background-color: #002400;
     color: #d9534f;
     padding: 10px;
     border-radius: 5px;
