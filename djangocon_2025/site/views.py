@@ -19,7 +19,7 @@ def default_view(request, menu="home", submenu=None):
         "Silver": [
             {
                 "name": "Ambient Digital",
-                "url": "https://ambientdigital.com.vn/",
+                "url": "https://ambient.digital/",
                 "logo": "images/sponsors/ambient.svg",
                 "filter": True,
             },
