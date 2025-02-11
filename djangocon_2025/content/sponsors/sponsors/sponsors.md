@@ -10,7 +10,7 @@ Discover the available sponsorship opportunities [here](https://2025.djangocon.e
 
 [![kolo](/static/images/sponsors/kolo.svg){:class='sponsor large'}](https://kolo.app/){:target="\_blank"}
 
-[![Foxley Talent](/static/images/sponsors/foxley.png){:class='sponsor large'}](https://foxleytalent.com/){:target="\_blank"}
+[//]: # ([![Foxley Talent]&#40;/static/images/sponsors/foxley.png&#41;{:class='sponsor large'}]&#40;https://foxleytalent.com/&#41;{:target="\_blank"})
 
 ---
 
