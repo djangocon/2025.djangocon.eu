@@ -43,10 +43,8 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://www.hacksoft.io/",
                 "logo": "images/sponsors/hacksoft-logo.png",
                 "filter": True,
-            
             }
-                
-            ],
+        ],
         "Sponsor": [],
         "Grants": [
             {
@@ -65,6 +63,8 @@ def default_view(request, menu="home", submenu=None):
             }
         ],
     }
+
+    # speakers
 
     path = APPS_DIR.__str__() + "/content/" + menu + ("/" + submenu if submenu else "")
     page = ""

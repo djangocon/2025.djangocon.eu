@@ -15,7 +15,6 @@
 </style>
 
 <body>
-  <!--
   <div class="container">
     <h1><strong>Check Your Grant Application Status💰✍</strong></h1>
     <small
@@ -99,7 +98,7 @@
           document.getElementById('loadingMessage').style.display = 'none';
           if (data.status === 'Not Found') {
             document.getElementById('result').innerHTML =
-              '<p>Email not found. Please try another email address.</p>';
+              '<p>Email not in our database. Please check and enter the correct email address.</p>';
           } else {
             document.getElementById('result').innerHTML =
               '<p>Hi👋 <strong>' +
@@ -127,5 +126,5 @@
             '</p>';
         });
     }
-  </script> -->
+  </script> 
 </body>
