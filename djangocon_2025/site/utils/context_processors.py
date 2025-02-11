@@ -8,6 +8,7 @@ def links(request):
                     "Call for Participation": "/talks/cfp/",
                     "Selection Process": "/talks/selection_process/",
                     "Schedule": "/talks/schedule/",
+                    # "Speakers": "/talks/speakers/",
                 },
             },
             "Information": {
