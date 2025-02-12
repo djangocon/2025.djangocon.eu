@@ -8,18 +8,19 @@ from config.settings.base import APPS_DIR
 def default_view(request, menu="home", submenu=None):
     sponsors = {
         "Platinum": [],
-        "Gold": [
-            {
-                "name": "Foxley Talent",
-                "url": "https://foxleytalent.com/",
-                "logo": "images/sponsors/foxley.png",
-                "filter": True,
-            },
-        ],
+        # Remove Foxley as per request from Luís
+        # "Gold": [
+        #     {
+        #         "name": "Foxley Talent",
+        #         "url": "https://foxleytalent.com/",
+        #         "logo": "images/sponsors/foxley.png",
+        #         "filter": True,
+        #     },
+        # ],
         "Silver": [
             {
                 "name": "Ambient Digital",
-                "url": "https://ambientdigital.com.vn/",
+                "url": "https://ambient.digital/",
                 "logo": "images/sponsors/ambient.svg",
                 "filter": True,
             },
