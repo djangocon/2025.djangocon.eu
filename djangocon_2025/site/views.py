@@ -13,7 +13,7 @@ def default_view(request, menu="home", submenu=None):
         #     {
         #         "name": "Foxley Talent",
         #         "url": "https://foxleytalent.com/",
-        #         "logo": "images/sponsors/foxley.png",
+        #         "logo": "images/sponsors/foxley.png",``
         #         "filter": True,
         #     },
         # ],
@@ -43,7 +43,13 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://www.hacksoft.io/",
                 "logo": "images/sponsors/hacksoft-logo.png",
                 "filter": True,
-            }
+            },
+            {
+                "name": "IT-Schulungen",
+                "url": "https://www.it-schulungen.com/",
+                "logo": "images/sponsors/it-schulungen.png",
+                "filter": False,
+            },
         ],
         "Sponsor": [],
         "Grants": [
@@ -52,7 +58,13 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://www.djangoproject.com/foundation/",
                 "logo": "images/sponsors/dsf.png",
                 "filter": False,
-            }
+            },
+            {
+                "name": "Python  Software Foundation",
+                "url": "https://www.python.org/psf-landing/",
+                "logo": "images/sponsors/psf.png",
+                "filter": False,
+            },
         ],
         "Organizer": [
             {
