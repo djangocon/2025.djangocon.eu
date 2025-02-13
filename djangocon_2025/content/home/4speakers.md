@@ -7,25 +7,25 @@ layout: home_speakers
         <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/speaker/"><button class="view-all-btn">View all speakers</button></a>
     </div>
     <div class="speakers-grid">
-        <!-- Speaker 1 -->
-        <div class="speaker-card">
-            <img class="speaker-image" src="static/images/speakers/2025/agnes.jpg" alt="Speaker Name">
+        <!-- Agnes  -->
+        <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/speaker/CMJJ7A/" class="speaker-card">
+            <img class="speaker-image" src="static/images/speakers/2025/agnes.jpg" alt="Agnès Haasser">
             <p class="speaker-name">Agnès Haasser</p>
-        </div>
-        <!-- Speaker 2 -->
-        <div class="speaker-card">
-            <img class="speaker-image" src="static/images/speakers/2025/baud.jpg" alt="Speaker Name">
+        </a>
+        <!-- Thibaud -->
+        <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/speaker/FGTHLQ/" class="speaker-card">
+            <img class="speaker-image" src="static/images/speakers/2025/baud.jpg" alt="Thibaud Colas">
             <p class="speaker-name">Thibaud Colas</p>
-        </div>
-        <!-- Speaker 3 -->
-        <div class="speaker-card">
-            <img class="speaker-image" src="static/images/speakers/2025/carlton.jpg" alt="Speaker Name">
-            <p class="speaker-name">Carlton Gibsonme</p>
-        </div>
-        <!-- Speaker 4 -->
-        <div class="speaker-card">
-            <img class="speaker-image" src="static/images/speakers/2025/becca.jpg" alt="Speaker Name">
+        </a>
+        <!-- Gibson -->
+        <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/speaker/JHNLPQ/" class="speaker-card">
+            <img class="speaker-image" src="static/images/speakers/2025/carlton.jpg" alt="Carlton Gibson">
+            <p class="speaker-name">Carlton Gibson</p>
+        </a>
+        <!-- Rebecca -->
+        <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/speaker/SV3D9U/" class="speaker-card">
+            <img class="speaker-image" src="static/images/speakers/2025/becca.jpg" alt="Rebecca Conley">
             <p class="speaker-name">Rebecca Conley</p>
-        </div>  
+        </a>  
     </div>
 </div>
