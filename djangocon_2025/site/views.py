@@ -50,12 +50,14 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/it-schulungen.png",
                 "filter": False,
             },
+
             {
                 "name": "Sentry",
                 "url": "https://sentry.io/",
                 "logo": "images/sponsors/sentry.svg",
                 "filter": True,
             },
+
         ],
         "Sponsor": [],
         "Grants": [
