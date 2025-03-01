@@ -56,6 +56,7 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://sentry.io/",
                 "logo": "images/sponsors/sentry.svg",
                 "filter": True,
+            },
 
         ],
         "Sponsor": [],
