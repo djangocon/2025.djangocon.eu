@@ -1,15 +1,12 @@
 layout: simple
 
-<h1 class="cfp-title">Call for Proposals - open</h1>
+<h1 class="cfp-title">Call for Proposals - closed</h1>
 
 This page contains all information regarding the proposal process for DjangoCon Europe – we will update it regularly as new information becomes available.
 
+The **Call for Proposals (CFP)** is closed now.
+
 It's a new year. What better way to start it than submitting your talk or workshop for **DjangoCon Europe 2025**, in beautiful **Dublin, Ireland?**
-
-The **Call for Proposals (CFP)** is open now and will be open until midnight on January 12th <a target="_blank" href="https://www.timeanddate.com/time/zones/aoe" class="pages-links">AoE Time Zone</a>; please check the CFP for your timezone specifics. That's plenty of time, you don't have to leave it to the last minute.
-<!-- [DjangoCon Europe 2025, Dublin CFP](https://pretalx.evolutio.pt/djangocon-europe-2025/cfp) -->
-
-<a target="_blank" href="https://pretalx.evolutio.pt/djangocon-europe-2025/cfp" class="hero-btn "style="text-decoration:none; color:white">Submit Proposal</a>
 
 We're looking for talks on technical and non-technical topics accessible to all skill levels and submissions from new and seasoned speakers.
 
