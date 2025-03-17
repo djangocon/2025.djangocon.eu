@@ -85,6 +85,12 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/eps.png",
                 "filter": False,
             },
+            {
+                "name": "University of Porto",
+                "url": "https://www.up.pt/",
+                "logo": "images/sponsors/uporto.png",
+                "filter": False,
+            },
         ],
         "Organizer": [
             {
