@@ -50,13 +50,20 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/it-schulungen.png",
                 "filter": False,
             },
-
             {
                 "name": "Sentry",
                 "url": "https://sentry.io/",
                 "logo": "images/sponsors/sentry.svg",
                 "filter": True,
             },
+
+            {
+                "name": "Hamilton Rock",
+                "url": "https://hamiltonrock.com",
+                "logo": "images/sponsors/hamilton.png",
+                "filter": True,
+            },
+
         ],
         "Sponsor": [],
         "Grants": [
@@ -70,6 +77,12 @@ def default_view(request, menu="home", submenu=None):
                 "name": "Python  Software Foundation",
                 "url": "https://www.python.org/psf-landing/",
                 "logo": "images/sponsors/psf.png",
+                "filter": False,
+            },
+            {
+                "name": "EuroPython Society",
+                "url": "https://www.europython-society.org/about/",
+                "logo": "images/sponsors/eps.png",
                 "filter": False,
             },
         ],
