@@ -70,6 +70,14 @@ def default_view(request, menu="home", submenu=None):
                 "filter": True,
             },
 
+
+            {
+                "name": "Hamilton Rock",
+                "url": "https://hamiltonrock.com",
+                "logo": "images/sponsors/hamilton.png",
+                "filter": True,
+            },
+
         ],
         "Sponsor": [],
         "Grants": [
@@ -82,13 +90,7 @@ def default_view(request, menu="home", submenu=None):
             {
                 "name": "Python  Software Foundation",
                 "url": "https://www.python.org/psf-landing/",
-                "logo": "images/sponsors/psf-white.png",
-                "filter": False,
-            },
-            {
-                "name": "EuroPython Society",
-                "url": "https://www.europython-society.org/about/",
-                "logo": "images/sponsors/eps-white.png",
+                "logo": "images/sponsors/psf.png",
                 "filter": False,
             },
         ],
