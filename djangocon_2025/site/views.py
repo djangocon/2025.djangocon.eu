@@ -56,7 +56,6 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/sentry.svg",
                 "filter": True,
             },
-
             {
                 "name": "Hamilton Rock",
                 "url": "https://hamiltonrock.com",
@@ -81,7 +80,19 @@ def default_view(request, menu="home", submenu=None):
             {
                 "name": "Python  Software Foundation",
                 "url": "https://www.python.org/psf-landing/",
-                "logo": "images/sponsors/psf.png",
+                "logo": "images/sponsors/psf-white.png",
+                "filter": False,
+            },
+            {
+                "name": "EuroPython Society",
+                "url": "https://www.europython-society.org/about/",
+                "logo": "images/sponsors/eps-white.png",
+                "filter": False,
+            },
+            {
+                "name": "University of Porto",
+                "url": "https://www.up.pt/",
+                "logo": "images/sponsors/uporto.png",
                 "filter": False,
             },
         ],
