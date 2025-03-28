@@ -56,14 +56,18 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/sentry.svg",
                 "filter": True,
             },
-
             {
                 "name": "Hamilton Rock",
                 "url": "https://hamiltonrock.com",
                 "logo": "images/sponsors/hamilton.png",
                 "filter": True,
             },
-
+            {
+                "name": "Divio",
+                "url": "https://www.divio.com/",
+                "logo": "images/sponsors/divio.png",
+                "filter": True,
+            },
         ],
         "Sponsor": [],
         "Grants": [
