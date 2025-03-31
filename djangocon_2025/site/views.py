@@ -36,6 +36,12 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/monit.png",
                 "filter": True,
             },
+            {
+                "name": "89grad",
+                "url": "https://www.89grad.ch/",
+                "logo": "images/sponsors/89grad.png",
+                "filter": False,
+            },
         ],
         "Bronze": [
             {
