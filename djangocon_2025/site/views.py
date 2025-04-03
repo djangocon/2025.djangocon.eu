@@ -42,6 +42,12 @@ def default_view(request, menu="home", submenu=None):
                 "logo": "images/sponsors/89grad.png",
                 "filter": False,
             },
+            {
+                "name": "Maykin ",
+                "url": "https://www.maykinmedia.nl/nl/",
+                "logo": "images/sponsors/maykin_logo.png",
+                "filter": False,
+            },
         ],
         "Bronze": [
             {
@@ -72,6 +78,12 @@ def default_view(request, menu="home", submenu=None):
                 "name": "Divio",
                 "url": "https://www.divio.com/",
                 "logo": "images/sponsors/divio.png",
+                "filter": True,
+            },
+            {
+                "name": "Lincoln Loop",
+                "url": "https://lincolnloop.com/",
+                "logo": "images/sponsors/lincoln.png",
                 "filter": True,
             },
         ],
