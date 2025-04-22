@@ -121,18 +121,21 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://www.python.org/psf-landing/",
                 "logo": "images/sponsors/psf-white.png",
                 "filter": False,
+                "size_class": "logo-normal",
             },
             {
                 "name": "EuroPython Society",
                 "url": "https://www.europython-society.org/about/",
                 "logo": "images/sponsors/eps-white.png",
                 "filter": False,
+                "size_class": "logo-normal",
             },
             {
                 "name": "University of Porto",
                 "url": "https://www.up.pt/",
                 "logo": "images/sponsors/uporto.png",
                 "filter": False,
+                "size_class": "logo-normal",
             },
         ],
         "Organizer": [
@@ -141,6 +144,7 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://www.evolutio.pt/",
                 "logo": "images/sponsors/evolutio.png",
                 "filter": True,
+                "size_class": "logo-normal",
             }
         ],
     }
