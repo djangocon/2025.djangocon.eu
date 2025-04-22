@@ -4275,4 +4275,13 @@ object[type='application/pdf'] {
   /* Aligned to the left */
 }
 
+.logo-normal {
+    max-width: 2000px;
+    height: auto;
+}
+
+.logo-small {
+    max-width: 150px;
+    height: auto;
+}
 .news-description.hover{}

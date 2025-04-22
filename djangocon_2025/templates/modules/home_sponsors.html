@@ -14,8 +14,10 @@
         <div class="sponsor-row">
           {% for sponsor in sponsors_list %}
             <a href="{{ sponsor.url }}" target="_blank" class="sponsor-logo">
-              <img src="{% static sponsor.logo %}" alt="{{ sponsor.name }}"
-                   {% if sponsor.filter %}style="filter: brightness(0) invert(1)" {% endif %}>
+              <img src="{% static sponsor.logo %}" 
+                   alt="{{ sponsor.name }}"
+                   class="{{ sponsor.size_class|default:'logo-normal' }}"
+                   {% if sponsor.filter %}style="filter: brightness(0) invert(1)"{% endif %}>
             </a>
           {% endfor %}
         </div>
@@ -24,6 +26,5 @@
     <a href="../sponsors/sponsors" class="text-decoration-none">
       <button class="view-all-btn-mobile">View all sponsors</button>
     </a>
-
   </div>
 </div>
