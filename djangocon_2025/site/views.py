@@ -17,39 +17,51 @@ def default_view(request, menu="home", submenu=None):
         #         "filter": True,
         #     },
         # ],
+        "Gold": [
+            {
+                "name": "MongoDB",
+                "url": "https://www.mongodb.com/",
+                "logo": "images/sponsors/mongodb.svg",
+                "filter": True,
+                "size_class": "logo-small",
+            },
+        ],
         "Silver": [
             {
                 "name": "Ambient Digital",
                 "url": "https://ambient.digital/",
                 "logo": "images/sponsors/ambient.svg",
                 "filter": True,
+                "size_class": "logo-small",
             },
             {
                 "name": "Caktus Group",
                 "url": "https://www.caktusgroup.com/",
                 "logo": "images/sponsors/caktus-logo.png",
                 "filter": True,
+                "size_class": "logo-small",
             },
             {
                 "name": "Monit ",
                 "url": "https://monitdata.com/?lang=en",
                 "logo": "images/sponsors/monit.png",
                 "filter": True,
+                "size_class": "logo-small",
             },
             {
                 "name": "89grad",
                 "url": "https://www.89grad.ch/",
                 "logo": "images/sponsors/89grad.png",
                 "filter": False,
+                "size_class": "logo-small",
             },
-
             {
                 "name": "Maykin ",
                 "url": "https://www.maykinmedia.nl/nl/",
                 "logo": "images/sponsors/maykin_logo.png",
-                "filter": False,
+                "filter": True,
+                "size_class": "logo-small",
             },
-
         ],
         "Bronze": [
             {
@@ -57,39 +69,43 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://www.hacksoft.io/",
                 "logo": "images/sponsors/hacksoft-logo.png",
                 "filter": True,
+                "size_class": "logo-small",
             },
             {
                 "name": "IT-Schulungen",
                 "url": "https://www.it-schulungen.com/",
                 "logo": "images/sponsors/it-schulungen.png",
                 "filter": False,
+                "size_class": "logo-small",
             },
             {
                 "name": "Sentry",
                 "url": "https://sentry.io/",
                 "logo": "images/sponsors/sentry.svg",
                 "filter": True,
+                "size_class": "logo-small",
             },
             {
                 "name": "Hamilton Rock",
                 "url": "https://hamiltonrock.com",
                 "logo": "images/sponsors/hamilton.png",
                 "filter": True,
+                "size_class": "logo-small",
             },
             {
                 "name": "Divio",
                 "url": "https://www.divio.com/",
                 "logo": "images/sponsors/divio.png",
                 "filter": True,
+                "size_class": "logo-small",
             },
-
             {
                 "name": "Lincoln Loop",
                 "url": "https://lincolnloop.com/",
                 "logo": "images/sponsors/lincoln.png",
                 "filter": True,
+                "size_class": "logo-normal",
             },
-
         ],
         "Sponsor": [],
         "Grants": [
@@ -98,24 +114,28 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://www.djangoproject.com/foundation/",
                 "logo": "images/sponsors/dsf.png",
                 "filter": False,
+                "size_class": "logo-small",
             },
             {
                 "name": "Python  Software Foundation",
                 "url": "https://www.python.org/psf-landing/",
                 "logo": "images/sponsors/psf-white.png",
                 "filter": False,
+                "size_class": "logo-normal",
             },
             {
                 "name": "EuroPython Society",
                 "url": "https://www.europython-society.org/about/",
                 "logo": "images/sponsors/eps-white.png",
                 "filter": False,
+                "size_class": "logo-normal",
             },
             {
                 "name": "University of Porto",
                 "url": "https://www.up.pt/",
                 "logo": "images/sponsors/uporto.png",
                 "filter": False,
+                "size_class": "logo-normal",
             },
         ],
         "Organizer": [
@@ -124,6 +144,7 @@ def default_view(request, menu="home", submenu=None):
                 "url": "https://www.evolutio.pt/",
                 "logo": "images/sponsors/evolutio.png",
                 "filter": True,
+                "size_class": "logo-normal",
             }
         ],
     }
