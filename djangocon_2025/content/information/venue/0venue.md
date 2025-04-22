@@ -47,14 +47,14 @@ You can find detailed information on how to get to The Talbot Hotel Stillorgan <
 <!-- Bus -->
 <h1 style="font-size:25px" class="cfp-title">By Bus</h1>
 
-- From Dublin Airport, the <a href="https://www.aircoach.ie/" class="pages-links">Aircoach</a>. 702 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection.
+- From Dublin Airport, the <a href="https://www.aircoach.ie/" class="pages-links">Aircoach</a>. 700 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection.
 - <a href="https://www.dublinairport.com/to-from-the-airport/by-bus/dublin-buses" class="pages-links">Dublin Express</a>.offers a direct service from Dublin Airport to Stillorgan, where the DjangoCon Europe 2025 venue (Talbot Hotel Stillorgan) is located. The hotel is situated approximately 7km from Dublin city center. The Aircoach journey takes around 30-40 minutes and costs between €10 to €15, depending on traffic conditions. The hotel is conveniently located on the N11, one of Dublin's major transport routes, with regular bus services connecting to the city center.
 
 
 <!-- Taxi -->
 <h1 style="font-size:25px" class="cfp-title">By Taxi</h1>
 
-<!-- - From Dublin Airport, the <a href="https://www.aircoach.ie/" class="pages-links">Aircoach</a>. 702 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection. -->
+<!-- - From Dublin Airport, the <a href="https://www.aircoach.ie/" class="pages-links">Aircoach</a>. 700 stops directly outside the Talbot Hotel on the N11. The journey typically takes 30-40 minutes, depending on traffic, and tickets cost approximately €10-€15. This is a convenient option for a direct connection. -->
 - <a href="https://free-now.com/ie/" class="pages-links">Free Now</a>. is something you should check out .
 
 
