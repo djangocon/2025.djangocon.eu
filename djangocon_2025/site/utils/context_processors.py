@@ -22,7 +22,7 @@ def links(request):
                     "Mentorship Program": "/information/mentorship/",
                     # "Django Girls": "/information/django_girls/",
                     "Hospitality": "/information/hospitality/",
-                    "Social Events": "/information/social_events/",
+                    "Party": "/information/social_events/",
                     "T-Shirts": "/information/tshirts/",
                     "Announcements": "/information/announcements/",
                 },

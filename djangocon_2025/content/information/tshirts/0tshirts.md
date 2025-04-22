@@ -2,15 +2,9 @@ layout: simple
 
 <h1 class="cfp-title">T-Shirts</h1>
 
-#### Preparing hold on...
+**The Moment You've All Been Waiting For Has Arrived...**
 
-<!-- **The Moment You've All Been Waiting For Has Arrived...** -->
-
-<!--
-Drumroll, please! Introducing the official T-shirt for DjangoCon Europe 2025! Don't miss your chance to grab one! :
-We worry about sustainability, do our t-shirts are made from organic materials. And to avoid producing t-shirts in excess, we will just produce enough t-shirts to fulfil the orders that we receive. Therefore, we will have two distinct types of orders: -->
-
-<!-- **Unveiling the Exclusive, Must-Have T-shirt of DjangoCon Europe 2025!** Don't let this opportunity slip through your fingers!
+**Unveiling the Exclusive, Must-Have T-shirt of DjangoCon Europe 2025!** Don't let this opportunity slip through your fingers!
 
 At DjangoCon Europe 2025, we're not just about code – we're about making a statement. And what better way to do so than with our official T-shirt? But wait, it gets even better:
 
@@ -22,11 +16,11 @@ At DjangoCon Europe 2025, we're not just about code – we're about making a sta
 
 Whether you're a Django aficionado or a newcomer eager to dive in, these T-shirts are your badge of honor. And with our tailored production approach, every T-shirt is a promise of exclusivity and sustainability. Don't miss out on your chance to be part of this limited edition run – **order yours today and wear your Django pride with a blend of style and sustainability!**
 
-<img src="/static/images/tshirts/t-shirt.png" alt="djangocon_shirt" style="width: 60%; border-radius: 10px;">
+<img src="/static/images/tshirts/djceu25_tshirt.png" alt="djangocon_shirt" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Design credit: Bia Rodrigues</em></p>
 
 - T-shirts purchased until May 10 will be provided during the check-in at the venue: €25
 - T-shirts purchased after May 11 will be mailed after the conference: €35 (inc. international shipping flat fee)
 - T-shirts sold with online tickets will be mailed after the conference: €35 (inc. international shipping flat fee)
 
-To order your T-shirt [2025@djangocon.eu](mailto:2025@djangocon.eu) -->
+To order your T-shirt [2025@djangocon.eu](mailto:2025@djangocon.eu){class="pages-links"}
