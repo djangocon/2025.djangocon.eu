@@ -9,7 +9,7 @@ CARE team members almost never act independently, including tasks like replying 
 
 ### Receiving a report
 
-Reports are typically received by e-mail, in <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg" target="\_blank" class="pages-links">Slack</a>, or from another staff member. If the report was received from someone else, it may be best to meet with the original reporter first, depending on how complete the information is. The info the CARE team aims to collect is listed in the Code of Conduct reporting guide, but sometimes, not all information is available.
+Reports are typically received by e-mail, in <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-340erqj3r-s5ekP4aYz95jv14GZMPCAg" target="\_blank" class="pages-links">Slack</a>, or from another staff member. If the report was received from someone else, it may be best to meet with the original reporter first, depending on how complete the information is. The info the CARE team aims to collect is listed in the Code of Conduct reporting guide, but sometimes, not all information is available.
 
 When receiving a report, the CARE team acknowledges receipt as soon as possible and aims to be understanding and compassionate. However, there should be no commitment to whether this is a violation or to which action will be taken.
 
@@ -49,7 +49,7 @@ The most common resolutions the CARE team can decide on are:
 
 Resolutions are not restricted to these options. Two people from the CARE team have conversations with bad actors, and notes from these conversations are added to the incident record.
 
-When deciding on a resolution, our primary goal is to address the report in an appropriate way while also looking to prevent or reduce the risk of continuing harm in the future. For example, we may try to distinguish whether a violation occurred intentionally or not, especially in cases that are not too severe, like inappropriate jokes. We'll probably choose more robust measures in intentional cases or severe behavior. The CARE team can also use behavior on social media, the conference <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg" target="\_blank" class="pages-links">Slack</a>, or personal interactions to further build a picture of the person(s) involved.
+When deciding on a resolution, our primary goal is to address the report in an appropriate way while also looking to prevent or reduce the risk of continuing harm in the future. For example, we may try to distinguish whether a violation occurred intentionally or not, especially in cases that are not too severe, like inappropriate jokes. We'll probably choose more robust measures in intentional cases or severe behavior. The CARE team can also use behavior on social media, the conference <a href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-340erqj3r-s5ekP4aYz95jv14GZMPCAg" target="\_blank" class="pages-links">Slack</a>, or personal interactions to further build a picture of the person(s) involved.
 
 ### Informing the reporter
 

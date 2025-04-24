@@ -59,7 +59,7 @@ def links(request):
         "social_media": {
             "twitter": "https://twitter.com/DjangoConEurope/",
             "fosstodon": "https://fosstodon.org/@djangoconeurope/",
-            "slack": "https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg",
+            "slack": "https://join.slack.com/t/djangoconeurope/shared_invite/zt-340erqj3r-s5ekP4aYz95jv14GZMPCAg",
             "youtube": "https://youtube.com/user/djangoconeurope/",
             "linkedin": "https://linkedin.com/company/djangocon-europe/",
             "github": "https://github.com/djangocon/2025.djangocon.eu/",
