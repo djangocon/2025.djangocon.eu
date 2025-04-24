@@ -3,11 +3,6 @@ layout: simple
 <h1 class="cfp-title">Talk Schedule</h1>
 <!-- All sessions are in Central European Summer Time (GMT+2). -->
 
-- **Talks** - TBA
-- **Workshops** - TBA
-- **Lightning Talks** - TBA 
-
-
 <h4 style="color: #97eb61">Checkout our Scheduled Talk</h4>
 
 [Check Featured Talks here](https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/){: style="color: #efedd0;"}
