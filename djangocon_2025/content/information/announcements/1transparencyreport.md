@@ -1,5 +1,6 @@
 type: light-backgroud
 layout: composed
+
 <!--
 section: 25 November 2025
 
