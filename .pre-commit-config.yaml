@@ -37,6 +37,11 @@ repos:
       - id: pyupgrade
         args: [--py311-plus]
 
+  - repo: https://github.com/codingjoe/esupgrade
+    rev: 2025.4.0
+    hooks:
+      - id: esupgrade
+
   - repo: https://github.com/psf/black
     rev: 23.9.1
     hooks:
