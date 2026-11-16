@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//speaker//QFV
+ VBK
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-RKQFLE@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250424T115500
+DTEND;TZID=IST:20250424T122500
+DESCRIPTION:While launch day is often anticipated as a satisfying completio
+ n to a project\, the reality is often different. Real users in the product
+ ion environment may test our code in unanticipated ways\, leading to surpr
+ ising bugs that need to be addressed\, often under time pressure and with 
+ fewer debugging resources than we're used to having in our development env
+ ironment. Come to our talk and learn how to enjoy debugging in production!
+DTSTAMP:20261116T124801Z
+LOCATION:Main hall
+SUMMARY:How to Enjoy Debugging in Production - Karen Tracey
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/RKQFLE/
+END:VEVENT
+END:VCALENDAR

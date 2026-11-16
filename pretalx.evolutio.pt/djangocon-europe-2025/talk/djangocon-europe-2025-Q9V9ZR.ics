@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//talk//Q9V9ZR
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-Q9V9ZR@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250424T164500
+DTEND;TZID=IST:20250424T171500
+DESCRIPTION:Secure\, accessible\, usable — pick any three.\n\nWhy comprom
+ ise when you can have it all? I'll show how easy it is to integrate suppor
+ t for passkeys (Face ID\, fingerprint scans\, etc.) into your Django app i
+ n almost no time at all.
+DTSTAMP:20261116T124747Z
+LOCATION:Main hall
+SUMMARY:Passkeys in Django: the best of all possible worlds - Tom Carrick
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/Q9V9ZR/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//talk//ATA3HV
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-ATA3HV@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250423T141000
+DTEND;TZID=IST:20250423T144000
+DESCRIPTION:Do you make it to the end of the long list of changes each Djan
+ go version brings? What goes through your head? Are you bored\, lost\, exc
+ ited\, or confused?\n\nFor us sometimes a seemingly plain sentence would t
+ rigger light bulb moments.\n\nIn this talk\, we will present hidden gems f
+ rom Django >= 5.0 together with the comparison of how the code would look 
+ with and without them. \n\nFind beauty in the small things. It’s the sma
+ ll things that make up everything.
+DTSTAMP:20261116T124741Z
+LOCATION:Main hall
+SUMMARY:The fine print in Django release notes - Sebastian Rode
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/ATA3HV/
+END:VEVENT
+END:VCALENDAR

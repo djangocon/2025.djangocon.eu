@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//speaker//BPS
+ HZ7
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-V38BFV@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250424T151000
+DTEND;TZID=IST:20250424T154000
+DESCRIPTION:This talk will be about Zango: An opinionated Django meta-frame
+ work that supercharges business application development. Built for teams w
+ ho need the flexibility of Django with batteries-included security\, compl
+ iance\, and workflows—without the overhead of building everything from s
+ cratch. Zango is completely Free and Open-source framework with no vendor 
+ lock-in.\nI will also be getting into the internals of zango\, how we achi
+ eved multi-tenancy and isolation of multiple apps at both the code and the
+  database level.
+DTSTAMP:20261116T124754Z
+LOCATION:Main hall
+SUMMARY:Zango: Accelerating Business App Development with an Opinionated Dj
+ ango Meta-Framework - Bhuvnesh Sharma
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/V38BFV/
+END:VEVENT
+END:VCALENDAR

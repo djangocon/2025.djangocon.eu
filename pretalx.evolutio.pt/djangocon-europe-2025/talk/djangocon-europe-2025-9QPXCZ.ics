@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//talk//9QPXCZ
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-9QPXCZ@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250423T170000
+DTEND;TZID=IST:20250423T173000
+DESCRIPTION:Have you ever stopped to think about where the words we use in 
+ software engineering come from? Terms like “bug” and “debugging” a
+ re familiar to most of us\, but what about “daemon” or “cache”? Th
+ is talk takes a trip down memory lane to explore the surprising and often 
+ quirky origins of some of the most common words in computing. Discover how
+  history\, culture\, and creativity shaped the language we use every day. 
+ Whether you’re just starting out in tech or have been in the field for y
+ ears\, there’s something here for everyone. With plenty of stories and i
+ llustrations to bring these terms to life\, we’ll uncover the hidden his
+ tory behind the words that define our work.
+DTSTAMP:20261116T124743Z
+LOCATION:Main hall
+SUMMARY:Logs\, shells\, caches and other strange words we use daily - Slawa
+  Gladkov
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/9QPXCZ/
+END:VEVENT
+END:VCALENDAR

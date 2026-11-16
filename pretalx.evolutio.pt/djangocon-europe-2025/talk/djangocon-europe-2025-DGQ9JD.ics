@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//talk//DGQ9JD
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-DGQ9JD@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250424T154500
+DTEND;TZID=IST:20250424T161500
+DESCRIPTION:If your users are data modelers themselves\, your underlying da
+ ta model might be extremely generic. What if you still want a model-like i
+ nterface shaped like those user-defined schemas? This is the story of subc
+ lassing QuerySets and REST Framework functionality to produce something a 
+ lot like dynamic Django models\, only with souped-up annotations supportin
+ g creates\, updates\, and deletes.
+DTSTAMP:20261116T124747Z
+LOCATION:Main hall
+SUMMARY:Dynamic models without dynamic models - Jacob Walls
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/DGQ9JD/
+END:VEVENT
+END:VCALENDAR

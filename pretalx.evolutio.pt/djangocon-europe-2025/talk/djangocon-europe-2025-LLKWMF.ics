@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//talk//LLKWMF
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-LLKWMF@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250425T111500
+DTEND;TZID=IST:20250425T114500
+DESCRIPTION:At MongoDB\, we have several Django enthusiasts who have jumped
+  at the idea of backing a long-term solution to combining MongoDB and Djan
+ go. Having historically provided support for SQL-based open source framewo
+ rks like Entity Framework in .NET/C#\, Doctrine in PHP\, and many more\, w
+ e are familiar with the territory.\nWe're happy to say we've successfully 
+ created a MongoDB Backend Library for Django and want to share all that we
+ 've learned kitting out a new NoSQL backend for a traditionally SQL framew
+ ork including how we believe we have influenced -- and will continue to in
+ fluence -- changes in the core Django library.
+DTSTAMP:20261116T124749Z
+LOCATION:Main hall
+SUMMARY:Evolving Django: What We Learned by Integrating MongoDB - Anaiya Ra
+ isinghani
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/LLKWMF/
+END:VEVENT
+END:VCALENDAR

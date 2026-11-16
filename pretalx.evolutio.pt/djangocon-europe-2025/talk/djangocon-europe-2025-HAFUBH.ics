@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//talk//HAFUBH
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-HAFUBH@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250424T101500
+DTEND;TZID=IST:20250424T104500
+DESCRIPTION:In this talk I present some lesser known gotchas and implicit b
+ ehaviors of Foreign Keys in Django. We'll talk about what you need to pay 
+ attention to when defining FKs\, how to change FKs without bringing your s
+ ystem to a halt and how to optimize for space\, performance and heavy load
+ .
+DTSTAMP:20261116T124744Z
+LOCATION:Main hall
+SUMMARY:How to get Foreign Keys horribly wrong in Django - Haki Benita
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/HAFUBH/
+END:VEVENT
+END:VCALENDAR

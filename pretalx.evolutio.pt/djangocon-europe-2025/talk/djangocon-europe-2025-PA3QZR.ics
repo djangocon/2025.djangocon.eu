@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//talk//PA3QZR
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-PA3QZR@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250424T143500
+DTEND;TZID=IST:20250424T150500
+DESCRIPTION:Learning new skills as an adult can be tricky. Boot camps and c
+ ourses can be helpful\, but many still struggle to land a job. This talk w
+ ill go over ways to support adults looking for a new career with Python an
+ d the results of an unconventional group class setup I’ve been experimen
+ ting with.
+DTSTAMP:20261116T124746Z
+LOCATION:Main hall
+SUMMARY:Supporting Adult Career Switchers: The Unbootcamp Method - Mykalin
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/PA3QZR/
+END:VEVENT
+END:VCALENDAR

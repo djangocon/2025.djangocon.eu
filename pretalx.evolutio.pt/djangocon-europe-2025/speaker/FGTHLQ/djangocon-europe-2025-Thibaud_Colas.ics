@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//speaker//FGT
+ HLQ
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-SRRCYS@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250423T153500
+DTEND;TZID=IST:20250423T162500
+DESCRIPTION:Come and meet (some of) the board! We'll give an outline of wha
+ t the board does\, but mostly this is a great chance to ask us questions.
+DTSTAMP:20261116T124016Z
+LOCATION:Workshops
+SUMMARY:Django Software Foundation Board Q&A - Thibaud Colas\, Tom Carrick
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/SRRCYS/
+END:VEVENT
+END:VCALENDAR

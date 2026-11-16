@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//speaker//JUG
+ PGE
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-GVFKWD@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250424T140000
+DTEND;TZID=IST:20250424T143000
+DESCRIPTION:A standard Django project involves working with multiple files 
+ and folders from the start. Let's see how the work with a Django project w
+ hen we have only one file in project. This solution automatically transfor
+ ms Django into a microservice-oriented async framework with "batteries inc
+ luded” philosophy.
+DTSTAMP:20261116T124803Z
+LOCATION:Main hall
+SUMMARY:One more time about µDjango. The next step in the evolution of asy
+ nchronous microservices technology. - Maxim Danilov
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/GVFKWD/
+END:VEVENT
+END:VCALENDAR

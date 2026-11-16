@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//speaker//NQY
+ PHM
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-JPSJBY@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250424T140000
+DTEND;TZID=IST:20250424T145000
+DESCRIPTION:You have a Django application\, and you've invested loads of ti
+ me into carefuly modelling your domain in software. Sure you have might ha
+ ve a full blown web app that most users rely on\, but  wouldn't it be nice
+  use that same ORM and domain model to have data-informed conversations ab
+ out your work with other people in your organisation who might not be pyth
+ on devs?\n\nFind out how with by using Marimo and Django to make versatile
+ \, pythonic\, lightweight notebooks\, based on lessons from real world use
+  of python notebooks and django projects in the real world.
+DTSTAMP:20261116T124755Z
+LOCATION:Workshops
+SUMMARY:Marimo and Jupyter: Sharing the joys of the Django ORM with Python 
+ Notebooks - Chris Adams
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/JPSJBY/
+END:VEVENT
+END:VCALENDAR

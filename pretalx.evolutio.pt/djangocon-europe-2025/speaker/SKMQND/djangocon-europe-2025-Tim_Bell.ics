@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2025//speaker//SKM
+ QND
+BEGIN:VTIMEZONE
+TZID:IST
+BEGIN:STANDARD
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:IST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2025-DLUM9M@pretalx.evolutio.pt
+DTSTART;TZID=IST:20250423T120500
+DTEND;TZID=IST:20250423T123500
+DESCRIPTION:Do you have an `IntegerField` that should have been a `BigInteg
+ erField`\, but no time machine? Here's how we converted 32-bit integer fie
+ lds to bigint on PostgreSQL at Kraken scale using Django migrations.
+DTSTAMP:20261116T124807Z
+LOCATION:Main hall
+SUMMARY:Turn back time: Converting integer fields to bigint using Django mi
+ grations at scale - Tim Bell
+URL:https://pretalx.evolutio.pt/djangocon-europe-2025/talk/DLUM9M/
+END:VEVENT
+END:VCALENDAR
